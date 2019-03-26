@@ -1,0 +1,318 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  /* user-select: none; */
+}
+
+html{
+  font-size: 10px;
+}
+
+body{
+  /* font-family: 'Lato', sans-serif;
+  font-weight: 400; */
+  /* font-size: 16px; */
+  /* line-height: 1.7;
+  color: #777;
+  padding: 3rem; */
+}
+
+::-webkit-scrollbar {
+  width: 9px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  /* box-shadow: inset 0 0 5px grey; */
+  border-radius: 10px;
+  background-color: #D4F0FC;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: red;
+  border-radius: 10px;
+  background-color: #01303F;
+  border-right: 1.3px solid #D4F0FC;
+}
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(1,48,63,0.9);
+  transition: 2s;
+}
+
+/*ESTILOS DEL HERO INICIO*/
+
+.header{
+  height: 95vh;
+  background-image: url(../img/hero.jpg);
+  background-size: cover;
+  background-position: top;
+  clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
+  position: relative;
+}
+
+.logo-box{
+  position: absolute;
+  top: 4rem;
+  left: 10rem;
+}
+
+.logo{
+  height: 110px;
+  animation: moveInLeft 0.6s ease-in;
+}
+
+.text-box{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.heading-primary{
+ color: #fff;
+ text-transform: uppercase;
+ font-family: 'Share Tech', sans-serif;
+ margin-bottom: 6rem;
+ font-weight: lighter;
+}
+
+.heading-primary-main{
+  display: block;
+  font-size: 70px;
+}
+
+.heading-primary-sub{
+  display: block;
+  font-size: 60px;
+}
+
+@keyframes moveInLeft {
+  0% {
+    opacity: 0;
+    transform: translate(-10rem);
+  }
+
+  80%{
+    transform: translate(1rem);
+  }
+
+  100%{
+    opacity: 1;
+    transform: translate(0px);
+  }
+}
+
+/*
+      ANIMACION PARA EL STICKY MENU
+ @keyframes moveInRight {
+  0% {
+    opacity: 0;
+    transform: translate(10rem);
+  }
+
+  80%{
+    transform: translate(-1rem);
+  }
+
+  100%{
+    opacity: 1;
+    transform: translate(0px);
+  }
+} */
+
+@keyframes moveInBottom {
+  0% {
+    opacity: 0;
+    transform: translateY(3rem);
+  }
+
+  100%{
+    opacity: 1;
+    transform: translate(0px);
+  }
+}
+
+.bot{
+  background-color: #fff;
+  color: #02A9F7;
+  width: 300px;
+  height: 70px;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+}
+
+.bot:link,
+.bot:visited {
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 23px 40px;
+  display: inline-block;
+  border-radius: 100px;
+  transition: all 0.2s;
+  position: relative;
+}
+
+.bot:hover{
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+
+.bot:active{
+  transform: translate(-1px);
+  box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+}
+
+.bot::after{
+  content: "";
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+  border-radius: 100px;
+  position: absolute;
+  top: 0;
+  left:0;
+  z-index: -1;
+  transition: all .4s;
+}
+
+.bot::after{
+  background-color: #fff;
+}
+
+.bot:hover::after{
+  transform: scaleX(1.4) scaleY(1.6);
+  opacity: 0;
+}
+
+.bot-animated{
+  animation: moveInBottom .5s ease-out .75s;
+  animation-fill-mode: backwards;
+}
+
+/*ESTILOS DEL HERO FIN*/
+
+
+
+/* ESTILOS DEL LOGIN - REGISTER INICIO */
+.backImg{
+  position: absolute;
+  width: 600px;
+  height: 100vh;
+}
+.logo-flisol{
+  position: absolute;
+  height: 86px;
+  margin-top: 20px;
+}
+
+
+.wrapper{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  background-color: #D4F0FC;
+  height: 100vh;
+}
+
+.container{
+  width: 450px;
+  margin: 0px auto;
+  padding-top: 120px;
+  position: absolute;
+}
+
+
+.signup,
+.login{
+  width: 50%;
+  background-color: rgba(0,0,0,0.42);
+  float: left;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  cursor: pointer;
+  text-transform: uppercase;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+}
+
+.signup-form,
+.login-form{
+  background: rgba(0,0,0,0.42);
+  padding: 30px 40px;
+  clear: both;
+  width: 100%;
+  box-sizing: border-box;
+  height: 400px;
+}
+
+.signup-form{
+  height: 420px;
+  position: relative;
+}
+
+.signup-form i, .login-form i{
+  position: absolute;
+  padding-left: 0px;
+  padding-top: 16px;
+  font-size: 30px;
+  color: #fff;
+}
+
+.input{
+  width: 100%;
+  padding: 10px 40px;
+  /* padding-top: 30px; */
+  box-sizing: border-box;
+  margin: 15px 0px;
+  color: #fff;
+  font-size: 14px;
+  border: none;
+  border-bottom: 2px solid #fff;
+  transform: all 0.5s ease;
+  background-color: transparent;
+}
+
+.input::placeholder{
+  color: #fff;
+}
+
+.input:focus{
+  border: none;
+  outline: none;
+  border-bottom: 2px solid #fff;
+}
+
+.btn{
+  width: 100%;
+  font-family: 'Lato', sans-serif;
+  font-size: 17px;
+  background: transparent;
+  height: 60px;
+  text-align: center;
+  line-height: 60px;
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: normal;
+  letter-spacing: 1px;
+  cursor: pointer;
+  margin-top: 15px;
+  margin-bottom: 30px;
+  border: 2px solid #fff;
+  border-radius: 10px;
+}
+
+.btn:hover{
+  transition: 0.4s;
+  background-color: #fff;
+  color: #000;
+}
+
+/* ESTILOS DEL LOGIN - REGISTER FIN */
