@@ -7,15 +7,17 @@
 
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/estilos.css">
     <!-- <link rel="shortcut icon" href="image/png" href="img/favicon.png"> -->
 
     <title>Flisol 2019</title>
   </head>
   <body>
+
     <header class="header">
+      <div class="back-black"></div>
       <div class="logo-box">
-        <img src="img/flisol.png" alt="Logo" class="logo">
+        <a href="index.php"> <img src="img/flisol.png" alt="Logo" class="logo"> </a>
       </div>
 
       <div class="text-box">

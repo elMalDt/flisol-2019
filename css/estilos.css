@@ -44,29 +44,35 @@ body{
 
 /*ESTILOS DEL HERO INICIO*/
 
+
 .header{
   height: 95vh;
   background-image: url(../img/hero.jpg);
   background-size: cover;
   background-position: top;
-  clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
+   /* clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);  */
+   clip-path: polygon(0 0, 100% 0, 100% 95%, 0 83%);
   position: relative;
 }
 
+.back-black{
+  height: 95vh;
+  background-color: rgba(0,0,0,0.45);
+}
 .logo-box{
   position: absolute;
   top: 4rem;
-  left: 10rem;
+  left: 5rem;
 }
 
 .logo{
-  height: 110px;
+  height: 120px;
   animation: moveInLeft 0.6s ease-in;
 }
 
 .text-box{
   position: absolute;
-  top: 50%;
+  top: 55%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
@@ -107,7 +113,7 @@ body{
 }
 
 /*
-      ANIMACION PARA EL STICKY MENU
+      ANIMACION PARA EL sticky navbar
  @keyframes moveInRight {
   0% {
     opacity: 0;
@@ -190,7 +196,7 @@ body{
 }
 
 .bot-animated{
-  animation: moveInBottom .5s ease-out .75s;
+  animation: moveInBottom .6s ease-out .25s;
   animation-fill-mode: backwards;
 }
 
@@ -226,9 +232,9 @@ body{
   position: absolute;
 }
 
-
 .signup,
-.login{
+.login,
+{
   width: 50%;
   background-color: rgba(0,0,0,0.42);
   float: left;
@@ -241,6 +247,7 @@ body{
   border-top-right-radius: 10px;
   color: #fff;
   font-family: 'Lato', sans-serif;
+  font-size: 16px;
 }
 
 .signup-form,
@@ -316,3 +323,101 @@ body{
 }
 
 /* ESTILOS DEL LOGIN - REGISTER FIN */
+
+
+/* MEDIA QUERIES INICIO */
+
+@media only screen and (max-width: 480px) {
+  .logo{
+    height: 80px;
+
+  }
+  .text-box{
+    top: 45%;
+  }
+  .logo-box{
+    left:2rem;
+  }
+  .heading-primary-main{
+    font-size: 38px;
+  }
+
+  .heading-primary-sub{
+    font-size: 33px;
+  }
+
+  .bot{
+     width: 250px;
+     font-size: 17px;
+     height: 55px;
+  }
+  .bot:link{
+    padding-top:18px;
+  }
+  .heading-primary{
+    margin-bottom: 4rem;
+  }
+
+}
+
+
+@media only screen and (min-width: 481px) and (max-width: 768px){
+  .logo{
+    height: 90px;
+
+  }
+  .text-box{
+    top: 47%;
+  }
+  .logo-box{
+    left:3rem;
+  }
+  .heading-primary-main{
+    font-size: 45px;
+  }
+
+  .heading-primary-sub{
+    font-size: 40px;
+  }
+  .heading-primary{
+    margin-bottom: 3rem;
+  }
+  .bot{
+     width: 300px;
+     font-size: 20px;
+     height: 55px;
+  }
+  .bot:link{
+    padding-top:18px;
+  }
+
+}
+
+@media only screen and (min-width: 769px) and (max-width: 920px){
+  .logo{
+    height: 120px;
+  }
+  .logo-box{
+    left:3rem;
+  }
+  .heading-primary-main{
+    font-size: 58px;
+  }
+
+  .heading-primary-sub{
+    font-size: 48px;
+  }
+  .heading-primary{
+    margin-bottom: 5rem;
+  }
+  .bot{
+     width: 300px;
+     font-size: 22px;
+     height: 65px;
+  }
+  .bot:link{
+    padding-top:20px;
+  }
+
+}
+/* MEDIA QUERIES FIN */

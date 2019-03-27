@@ -1,7 +1,7 @@
 <body>
 
   <div class="wrapper">
-
+    
     <img src="img/back-log.jpg" class="backImg" width="200px" alt="">
     <img src="img/flisol.png" class="logo-flisol" alt="">
     <div class="container">
@@ -43,5 +43,5 @@
 
     </div>
   </div>
-  
+
 </body>
