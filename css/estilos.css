@@ -68,7 +68,7 @@ body{
 
 .text-box{
   position: absolute;
-  top: 55%;
+  top: 48%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
@@ -78,7 +78,7 @@ body{
  color: #fff;
  text-transform: uppercase;
  font-family: 'Share Tech', sans-serif;
- margin-bottom: 6rem;
+ margin-bottom: 5rem;
  font-weight: lighter;
  font-size: 50px;
 }
