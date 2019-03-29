@@ -78,7 +78,7 @@ body{
  color: #fff;
  text-transform: uppercase;
  font-family: 'Share Tech', sans-serif;
- margin-bottom: 5rem;
+ margin-bottom: 2rem;
  font-weight: lighter;
  font-size: 50px;
 }
@@ -194,15 +194,23 @@ body{
 /* ESTILOS DEL LOGIN - REGISTER INICIO */
 .backImg{
   position: absolute;
-  width: 600px;
+
+  width: 45%;
   height: 100vh;
 }
+
 .logo-flisol{
   position: absolute;
   height: 86px;
-  margin-top: 20px;
-}
 
+
+}
+.blo a{
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  margin-top: 17px;
+}
 
 .wrapper{
   display: flex;
@@ -220,7 +228,7 @@ body{
 }
 
 .signup,
-.login,
+.login
 {
   width: 50%;
   background-color: rgba(0,0,0,0.42);
@@ -346,6 +354,9 @@ body{
 
 
 @media only screen and (min-width: 481px) and (max-width: 768px){
+  .backImg{
+    width: 100%;
+  }
   .logo{
     height: 90px;
 
@@ -371,6 +382,11 @@ body{
 
 }
 
+@media only screen and (min-width: 481px) and (max-width: 768px){
+  .backImg{
+    width: 100%;
+  }
+}
 @media only screen and (min-width: 769px) and (max-width: 920px){
   .logo{
     height: 120px;
@@ -397,5 +413,16 @@ body{
     padding-top:20px;
   }
 
+}
+
+@media only screen and (min-width: 1029px) and (max-width: 1234px){
+  .backImg{
+    width: 53%;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1029px){
+  .backImg{
+    width: 68%;
+  }
 }
 /* MEDIA QUERIES FIN */

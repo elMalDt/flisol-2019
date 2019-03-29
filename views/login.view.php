@@ -1,9 +1,12 @@
 <body>
 
+
   <div class="wrapper">
-    
+
     <img src="img/back-log.jpg" class="backImg" width="200px" alt="">
-    <img src="img/flisol.png" class="logo-flisol" alt="">
+
+
+
     <div class="container">
 
       <div class="signup">Registrate</div>
@@ -42,6 +45,12 @@
        </form>
 
     </div>
+    <div class="blo">
+      <a href="index.php">
+        <img src="img/flisol.png" class="logo-flisol" alt="">
+      </a>
+    </div>
   </div>
+
 
 </body>
