@@ -359,8 +359,124 @@ body{
   cursor: pointer;
 }
 
+.btn-conferencias:hover{
+  background-color: #fff;
+  border: 1px solid #02A9F7;
+  color: #02A9F7;
+  transition: .5s;
+}
+
 /* ESTILOS DE "MIS CONFERENCIAS RECIEN CREADA LA CUENTA" FIN */
 
+/* ESTILOS DE AÑADIR CONFERENCIAS INICIO */
+
+.add-conf-titu{
+  font-size: 40px;
+  margin-top: 100px;
+}
+
+.contain-cards{
+  display: flex;
+  justify-content:space-around;
+  margin-top: 50px;
+  flex-wrap: wrap;
+}
+
+.tarjeta-add-conf{
+  width: 400px;
+  background-color: #fff;
+  /* border: 2px solid blue; */
+  border-radius: 10px;
+  text-align: center;
+  padding: 30px;
+  margin-bottom: 40px;
+  font-family: 'Lato', sans-serif;
+}
+
+.tarjeta-add-conf img{
+  width: 340px;
+}
+.tarjeta-add-conf h2{
+  margin: 15px 0px;
+  font-size: 23px;
+  font-family: 'Share Tech', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #01303F;
+}
+.tarjeta-add-conf p{
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.6;
+}
+
+.button-cont{
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+}
+.button-cont button{
+  margin: 0px 30px;
+}
+.tarjeta-add-conf input[type="checkbox"]{
+  background-color: blue;
+}
+
+/*checkbox*/
+input[type=checkbox] + label {
+  display: block;
+  margin: 0.2em;
+  cursor: pointer;
+  padding: 0.2em;
+  position: absolute;
+}
+
+input[type=checkbox] {
+  display: none;
+}
+
+input[type=checkbox] + label:before {
+  content: "\2714";
+  border: 0.1em solid #000;
+  border-radius: 0.2em;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 3px;
+  padding-left: 0.2em;
+  padding-bottom: 0.3em;
+  margin-right: 0.2em;
+  vertical-align: bottom;
+  color: transparent;
+  transition: .2s;
+  font-size: 20px;
+}
+
+input[type=checkbox] + label:active:before {
+  transform: scale(0);
+}
+
+input[type=checkbox]:checked + label:before {
+  background-color: MediumSeaGreen;
+  border-color: MediumSeaGreen;
+  color: #fff;
+}
+
+input[type=checkbox]:disabled + label:before {
+  transform: scale(1);
+  border-color: #aaa;
+}
+
+input[type=checkbox]:checked:disabled + label:before {
+  transform: scale(1);
+  background-color: #bfb;
+  border-color: #bfb;
+}
+
+/*checkbox*/
+
+
+/* ESTILOS DE AÑADIR CONFERENCIAS FIN */
 
 /* MEDIA QUERIES INICIO */
 
