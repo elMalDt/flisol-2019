@@ -10,7 +10,7 @@ html{
 }
 
 body{
-
+  background-color: #D4F0FC;
 }
 
 /* ESTILOS SCROLL INICIO */
@@ -319,6 +319,48 @@ body{
 
 /* ESTILOS DEL LOGIN - REGISTER FIN */
 
+/* ESTILOS DE "MIS CONFERENCIAS RECIEN CREADA LA CUENTA" INICIO */
+
+.contain-conf-begin{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.titulo{
+  color: #01303F;
+  font-size: 28px;
+  font-family: 'Share Tech', sans-serif;
+  font-weight: lighter;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.begin-conf{
+  color: #01303F;
+  font-family: 'Lato', sans-serif;
+  font-weight: normal;
+  font-size: 27px;
+  margin-top: 50px;
+}
+
+.btn-conferencias{
+  background-color: #02A9F7;
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  width: 200px;
+  margin-top: 50px;
+  cursor: pointer;
+}
+
+/* ESTILOS DE "MIS CONFERENCIAS RECIEN CREADA LA CUENTA" FIN */
+
 
 /* MEDIA QUERIES INICIO */
 
@@ -413,6 +455,14 @@ body{
     padding-top:20px;
   }
 
+}
+
+/* MEDIA QUERIES PARA EL REGISTER */
+
+@media only screen and (max-width: 480px){
+  .backImg{
+    width: 100%;
+  }
 }
 
 @media only screen and (min-width: 1029px) and (max-width: 1234px){
