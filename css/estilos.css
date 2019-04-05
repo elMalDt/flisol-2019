@@ -1,3 +1,5 @@
+
+
 *{
   box-sizing: border-box;
   margin: 0px;
@@ -10,7 +12,7 @@ html{
 }
 
 body{
-  background-color: #D4F0FC;
+  background-color:#D4F0FC;
 }
 
 /* ESTILOS SCROLL INICIO */
@@ -99,8 +101,8 @@ body{
   }
 }
 
-/*
-      ANIMACION PARA EL sticky navbar
+
+      /* ANIMACION PARA EL sticky navbar */
  @keyframes moveInRight {
   0% {
     opacity: 0;
@@ -115,7 +117,7 @@ body{
     opacity: 1;
     transform: translate(0px);
   }
-} */
+}
 
 @keyframes moveInBottom {
   0% {
@@ -128,6 +130,136 @@ body{
     transform: translate(0px);
   }
 }
+
+/* ESTILOS DEL STICKY NAVBAR INICIO */
+
+
+.navigation__checkbox {
+  display: none; }
+
+.navigation__button {
+  background-color: #fff;
+  animation: moveInRight 0.6s ease-in;
+  height: 70px;
+  width: 70px;
+  position: fixed;
+  top: 3rem;
+  right: 3rem;
+  border-radius: 50%;
+  z-index: 2000;
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.2);
+  text-align: center;
+  cursor: pointer; }
+
+.navigation__background {
+animation: moveInRight 0.6s ease-in;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  position: fixed;
+  top: 4rem;
+  right: 4rem;
+  background-color: #02A9F7;
+  z-index: 1000;
+  transition: transform 0.8s cubic-bezier(0.86, 0, 0.07, 1); }
+
+.navigation__nav {
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1500;
+  opacity: 0;
+  width: 0;
+  transition: all 0.8s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.navigation__list {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  list-style: none;
+  text-align: center;
+  width: 100%;
+}
+
+.navigation__item {
+  margin: 1rem;
+}
+
+.circ{
+  font-size: 80px;
+}
+.navigation__link:link, .navigation__link:visited {
+  display: inline-block;
+  font-size: 25px;
+  font-weight: 300;
+  padding: 3px;
+  font-family: 'Lato', sans-serif;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+
+  background-size: 220%;
+  transition: all .4s;
+}
+  .navigation__link:link span, .navigation__link:visited span {
+    margin-right: 1.5rem;
+    display: inline-block; }
+
+.navigation__link:hover, .navigation__link:active {
+  background-position: 100%;
+  color: #02577A;
+   }
+
+.navigation__checkbox:checked ~ .navigation__background {
+  transform: scale(80); }
+
+.navigation__checkbox:checked ~ .navigation__nav {
+  opacity: 1;
+  width: 100%; }
+
+.navigation__icon {
+
+  position: relative;
+  margin-top: 35px; }
+  .navigation__icon, .navigation__icon::before, .navigation__icon::after {
+    width: 33px;
+    height: 3px;
+    background-color: #333;
+    display: inline-block; }
+  .navigation__icon::before, .navigation__icon::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    transition: all .2s; }
+  .navigation__icon::before {
+    top: -.8rem; }
+  .navigation__icon::after {
+    top: .8rem; }
+
+.navigation__button:hover .navigation__icon::before {
+  top: -0.7rem; }
+
+.navigation__button:hover .navigation__icon::after {
+  top: 0.7rem; }
+
+.navigation__checkbox:checked + .navigation__button .navigation__icon {
+  background-color: transparent; }
+
+.navigation__checkbox:checked + .navigation__button .navigation__icon::before {
+  top: 0;
+  transform: rotate(135deg); }
+
+.navigation__checkbox:checked + .navigation__button .navigation__icon::after {
+  top: 0;
+  transform: rotate(-135deg); }
+
+
+/* ESTILOS DEL STICKY NAVBAR FIN */
+
+
 
 .bot{
   background-color: #fff;
@@ -424,7 +556,9 @@ body{
 }
 
 /*checkbox*/
-input[type=checkbox] + label {
+
+
+.tarjeta-add-conf input[type=checkbox] + label {
   display: block;
   margin: 0.2em;
   cursor: pointer;
@@ -432,11 +566,11 @@ input[type=checkbox] + label {
   position: absolute;
 }
 
-input[type=checkbox] {
+.tarjeta-add-conf input[type=checkbox] {
   display: none;
 }
 
-input[type=checkbox] + label:before {
+.tarjeta-add-conf input[type=checkbox] + label:before {
   content: "\2714";
   border: none;
   border-radius: 0.2em;
@@ -454,22 +588,22 @@ input[type=checkbox] + label:before {
   font-size: 20px;
 }
 
-input[type=checkbox] + label:active:before {
+.tarjeta-add-conf input[type=checkbox] + label:active:before {
   transform: scale(0);
 }
 
-input[type=checkbox]:checked + label:before {
+.tarjeta-add-conf input[type=checkbox]:checked + label:before {
   background-color: MediumSeaGreen;
   border-color: MediumSeaGreen;
   color: #fff;
 }
 
-input[type=checkbox]:disabled + label:before {
+.tarjeta-add-conf input[type=checkbox]:disabled + label:before {
   transform: scale(1);
   border-color: #aaa;
 }
 
-input[type=checkbox]:checked:disabled + label:before {
+.tarjeta-add-conf input[type=checkbox]:checked:disabled + label:before {
   transform: scale(1);
   background-color: #bfb;
   border-color: #bfb;

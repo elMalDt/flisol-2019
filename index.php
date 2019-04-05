@@ -7,6 +7,7 @@
 
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <link rel="stylesheet" href="css/estilos.css">
     <script type="text/javascript" src="js/main.js">
 
@@ -17,6 +18,32 @@
     <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
   </head>
   <body>
+
+    <div class="navigation">
+      <input type="checkbox" class="navigation__checkbox" id="navi-toggle">
+
+      <label for="navi-toggle" class="navigation__button">
+          <span class="navigation__icon">&nbsp;</span>
+      </label>
+
+      <div class="navigation__background">&nbsp;</div>
+
+      <nav class="navigation__nav">
+          <ul class="navigation__list">
+              <li class="navigation__item"><a href="#" class="navigation__link"><i class="far fa-user-circle circ"></i></a></li>
+              <li class="navigation__item"><a href="#" class="navigation__link">Inicio</a></li>
+              <li class="navigation__item"><a href="#" class="navigation__link">¿què es flisol?</a></li>
+              <li class="navigation__item"><a href="#" class="navigation__link">conferencias</a></li>
+              <li class="navigation__item"><a href="#" class="navigation__link">talleres</a></li>
+              <li class="navigation__item"><a href="#" class="navigation__link">apps</a></li>
+              <li class="navigation__item"><a href="#" class="navigation__link">organizadores</a></li>
+              <li class="navigation__item"><a href="#" class="navigation__link">desarrolladores</a></li>
+              <li class="navigation__item"><a href="#" class="navigation__link">inicar sesiòn</a></li>
+
+              </ul>
+      </nav>
+    </div>
+
 
     <header class="header">
       <div class="back-black"></div>
