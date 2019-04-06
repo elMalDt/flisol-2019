@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/estilos.css">
+    <link rel="stylesheet" href="css/estilo.css">
     <script type="text/javascript" src="js/main.js">
 
     </script>
@@ -73,6 +73,17 @@
         <a href="#" class="bot bot-white bot-animated">¡Registrate Gratis!</a>
       </div>
     </header>
+
+    <span class="que-es-flisol">
+      <h1>¿Flisol?, ¿Qué clase de <br /> meme es ese?</h1>
+      <p>
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+        when an unknown printer took a galley of type and scrambled it to make a type
+        specimen book.
+      </p>
+    </span>
+
 
     <script type="text/javascript">
 
