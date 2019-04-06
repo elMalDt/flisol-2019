@@ -750,7 +750,6 @@ h1{
   .bot:link{
     padding-top:20px;
   }
-
 }
 
 @media only screen and (max-width: 768px){
@@ -774,6 +773,27 @@ h1{
     margin-bottom: 100px;
   }
 
+  .navigation__button {
+    height: 60px;
+    width: 60px;
+    top: 6rem;
+    right: 4rem;
+  }
+
+  .navigation__background {
+    height: 40px;
+    width: 40px;
+    top: 7rem;
+    right: 5rem;
+  }
+
+  .navigation__icon {
+    margin-top: 30px;
+   }
+
+   .navigation__icon, .navigation__icon::before, .navigation__icon::after {
+     height: 2.5px;
+  }
 
 }
 @media only screen and (min-width: 769px) and (max-width: 920px){
@@ -813,6 +833,20 @@ h1{
     .que-es-flisol p{
       font-size: 22px;
     }
+
+    .navigation__button {
+      top: 7rem;
+      right: 3rem;
+  }
+
+    .navigation__background {
+      height: 40px;
+      width: 40px;
+      top: 7rem;
+      right: 5rem;
+    }
+
+
 
 }
 
