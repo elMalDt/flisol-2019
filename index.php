@@ -84,6 +84,66 @@
       </p>
     </span>
 
+    <h1>conferencias</h1>
+
+    <div class="card-cont">
+
+
+        <div class="card-main-content">
+          <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+          <div class="back-card"></div>
+          <div class="main-card-section">
+            <span>
+              <p>MIERCOLES</p>
+              <p>10:00AM - 11:00AM</p>
+            </span>
+            <h2>Migrando mi hogar a Linux</h2>
+            <p>Psonente: Susana María Valdivé Lunar <br> Lugar: SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
+            <p>
+              A través de mi experiencia invitar a los profesionales o
+              estudiantes de diseño gráfico y carreras afines a utilizar
+              el software libre.
+            </p>
+          </div>
+        </div>
+
+        <div class="card-main-content">
+          <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+          <div class="back-card"></div>
+          <div class="main-card-section">
+            <span>
+              <p>MIERCOLES</p>
+              <p>10:00AM - 11:00AM</p>
+            </span>
+            <h2>Migrando mi hogar a Linux</h2>
+            <p>Psonente: Susana María Valdivé Lunar <br> Lugar: SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
+            <p>
+              A través de mi experiencia invitar a los profesionales o
+              estudiantes de diseño gráfico y carreras afines a utilizar
+              el software libre.
+            </p>
+          </div>
+        </div>
+
+        <div class="card-main-content">
+          <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+          <div class="back-card"></div>
+          <div class="main-card-section">
+            <span>
+              <p>MIERCOLES</p>
+              <p>10:00AM - 11:00AM</p>
+            </span>
+            <h2>Migrando mi hogar a Linux</h2>
+            <p>Psonente: Susana María Valdivé Lunar <br> Lugar: SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
+            <p>
+              A través de mi experiencia invitar a los profesionales o
+              estudiantes de diseño gráfico y carreras afines a utilizar
+              el software libre.
+            </p>
+          </div>
+        </div>
+
+  </div>
 
     <script type="text/javascript">
 
