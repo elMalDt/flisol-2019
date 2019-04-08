@@ -351,8 +351,9 @@ h1{
 
 /* ESTILOS DE LAS MAIN-CARDS INICIO */
 .card-cont{
-  /* background-color: yellow */
-  height: 100vh;
+   /* background-color: yellow; */
+
+  height: auto;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -362,22 +363,22 @@ h1{
 
 .card-main-content{
 
-  width: 370px;
-  height: 370px;
+  width: 400px;
+  height: 500px;
   display: flex;
-  margin: 20px 30px;
+  margin: 30px 20px;
 }
 .back-card{
   position: absolute;
   background-color: rgba(0, 0, 0, 0.73);
-  width: 370px;
-  height: 370px;
+  width: 400px;
+  height: 500px;
   border-radius: 15px;
 }
 
 .main-card-section{
   color: #fff;
-  width: 370px;
+  width: 400px;
   padding: 5px 20px;
   position: absolute;
   font-family: 'Lato', sans-serif;
@@ -387,8 +388,8 @@ h1{
 }
 .img-main-card{
   position: absolute;
-  height: 370px;
-  width: 370px;
+  height: 500px;
+  width: 400px;
   border-radius: 15px;
 }
 .main-card-section span{
@@ -403,6 +404,7 @@ h1{
   text-align: center;
   margin-top: 20px;
   font-size: 30px;
+  text-transform: uppercase;
 }
 .main-card-section p{
   text-align:left;
@@ -410,6 +412,212 @@ h1{
   font-size: 15px;
 }
 /* ESTILOS DE LAS MAIN-CARDS FIN */
+
+/* ESTILOS BANDAS DE TEGISTRO INICIO */
+
+.band-register {
+  background-color: #01303F;
+  height: 100px;
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-bottom: 40px;
+}
+.band-register button {
+  margin-right: 4rem;
+  padding: 20px;
+  border-radius: 100px;
+  width: 200px;
+  background-color:#fff;
+  color: #02A9F7;
+  font-size: 19px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  border: none;
+}
+
+/* ESTILOS BANDAS DE TEGISTRO FIN */
+
+/*ESTILOS DE ACORDEON INICIO */
+.wraperr{
+  width: 100%;
+  background-color: blue;
+  height: auto;
+}
+
+.half {
+  float: left;
+  width: 100%;
+  padding: 3em 1em;
+  background-color: red;
+
+}
+/* Acordeon styles */
+.tab {
+  position: relative;
+  margin-bottom: 1px;
+  width: 65%;
+  color: #fff;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tab input {
+  position: absolute;
+  opacity: 0;
+  z-index: -1;
+}
+.tab label {
+  position: relative;
+  display: block;
+  padding: 0 0 0 1em;
+  background: #01303F;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+  line-height: 3;
+  cursor: pointer;
+}
+.tab-content {
+  max-height: 0;
+  overflow: hidden;
+  background: #fff;
+  color: #02577A;
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  font-size: 17px;
+  -webkit-transition: max-height .35s;
+  -o-transition: max-height .35s;
+  transition: max-height .35s;
+}
+
+.tab-content div img{
+  height: 100px;
+  display: block;
+  padding: 10px;
+
+}
+
+.tab-content div{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+.tab-content div ul{
+  margin-top: 20px;
+}
+
+.blue .tab-content {
+  background: #3498db;
+}
+.tab-content p {
+  margin: 1em;
+}
+/* :checked */
+.tab input:checked ~ .tab-content {
+  max-height: 100vh;
+}
+/* Icon */
+.tab label::after {
+  position: absolute;
+  right: 0;
+  top: 0;
+  display: block;
+  width: 3em;
+  height: 3em;
+  line-height: 3;
+  text-align: center;
+  -webkit-transition: all .35s;
+  -o-transition: all .35s;
+  transition: all .35s;
+}
+.tab input[type=checkbox] + label::after {
+  content: "+";
+}
+.tab input[type=radio] + label::after {
+  content: "\25BC";
+}
+.tab input[type=checkbox]:checked + label::after {
+  transform: rotate(315deg);
+}
+.tab input[type=radio]:checked + label::after {
+  transform: rotateX(180deg);
+}
+
+
+/*ESTILOS DE ACORDEON FIN*/
+
+/* ESTILOS DE ORGANIZADORES INICIO */
+.wrap-organizadores{
+  background-color: pink;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 0px 80px;
+}
+.org-person{
+  padding: 30px 60px;
+}
+
+.org-person img{
+  border-radius: 100%;
+  margin: 0px 5px;
+}
+
+.org-person p{
+  font-size: 24px;
+  font-family: 'Lato', sans-serif;
+  font-weight: normal;
+  color: #01303F;
+}
+
+/* ESTILOS DE ORGANIZADORES FIN */
+
+/* ESTILOS FOOTER INICIO */
+
+footer{
+  background-color: #01303F;
+  color: #fff;
+  font-size: 23px;
+  font-family: 'Lato', sans-serif;
+}
+.back-itemss {
+  display: flex;
+  background-color: red;
+  justify-content: space-around;
+  padding: 40px 0px;
+}
+.back-itemss img{
+  width: 120px;
+  height: 140px;
+}
+.contain-follow{
+  color: #01303F;
+  background-color: #fff;
+  padding: 15px;
+  width: 200px;
+  height: 70px;
+  font-size: 30px;
+
+}
+.contain-follow p{
+  font-family: 'Share Tech', sans-serif;
+  font-weight: lighter;
+}
+
+.icons-bocs{
+  /* background-color: green; */
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+}
+.icons-bocs i{
+  font-size: 60px;
+}
+
+/* ESTILOS FOOTER FIN */
 
 
 /* ESTILOS DEL LOGIN - REGISTER INICIO */
