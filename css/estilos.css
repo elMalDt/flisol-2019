@@ -362,32 +362,33 @@ h1{
 
 .card-main-content{
 
-  width: 340px;
-  height: 340px;
+  width: 370px;
+  height: 370px;
   display: flex;
   margin: 20px 30px;
 }
 .back-card{
   position: absolute;
-  background-color: rgba(0, 0, 0, 0.63);
-  width: 340px;
-  height: 340px;
+  background-color: rgba(0, 0, 0, 0.73);
+  width: 370px;
+  height: 370px;
   border-radius: 15px;
 }
 
 .main-card-section{
   color: #fff;
-  width: 340px;
-  padding: 10px;
+  width: 370px;
+  padding: 5px 20px;
   position: absolute;
   font-family: 'Lato', sans-serif;
   font-weight: normal;
   margin: 0px;
+  /* line-height: 1.5; */
 }
 .img-main-card{
   position: absolute;
-  height: 340px;
-  width: 340px;
+  height: 370px;
+  width: 370px;
   border-radius: 15px;
 }
 .main-card-section span{

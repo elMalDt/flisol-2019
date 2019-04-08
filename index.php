@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/estilo.css">
+    <link rel="stylesheet" href="css/estilos.css">
     <script type="text/javascript" src="js/main.js">
 
     </script>
@@ -94,12 +94,12 @@
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
-              <p>MIERCOLES</p>
-              <p>10:00AM - 11:00AM</p>
+              <p> <strong> MIERCOLES </strong></p>
+              <p> <strong> 10:00AM - 11:00AM </strong></p>
             </span>
             <h2>Migrando mi hogar a Linux</h2>
-            <p>Psonente: Susana María Valdivé Lunar <br> Lugar: SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
-            <p>
+            <p> <strong> PONENTE: </strong> <br> Susana María Valdivé Lunar <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
+            <p><strong> DESCRIPCION: </strong> <br>
               A través de mi experiencia invitar a los profesionales o
               estudiantes de diseño gráfico y carreras afines a utilizar
               el software libre.
@@ -112,12 +112,13 @@
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
-              <p>MIERCOLES</p>
-              <p>10:00AM - 11:00AM</p>
+              <p> <strong> MIERCOLES </strong></p>
+              <p> <strong> 10:00AM - 11:00AM </strong></p>
             </span>
             <h2>Migrando mi hogar a Linux</h2>
-            <p>Psonente: Susana María Valdivé Lunar <br> Lugar: SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
+            <p> <strong> PONENTE: </strong> <br> Susana María Valdivé Lunar <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
             <p>
+              <strong> DESCRIPCION: </strong> <br>
               A través de mi experiencia invitar a los profesionales o
               estudiantes de diseño gráfico y carreras afines a utilizar
               el software libre.
@@ -130,12 +131,12 @@
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
-              <p>MIERCOLES</p>
-              <p>10:00AM - 11:00AM</p>
+              <p> <strong> MIERCOLES </strong></p>
+              <p> <strong> 10:00AM - 11:00AM </strong></p>
             </span>
             <h2>Migrando mi hogar a Linux</h2>
-            <p>Psonente: Susana María Valdivé Lunar <br> Lugar: SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
-            <p>
+            <p> <strong> PONENTE: </strong> <br> Susana María Valdivé Lunar <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
+            <p><strong> DESCRIPCION: </strong> <br>
               A través de mi experiencia invitar a los profesionales o
               estudiantes de diseño gráfico y carreras afines a utilizar
               el software libre.
