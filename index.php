@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/styless.css">
     <script type="text/javascript" src="js/main.js">
 
     </script>
@@ -127,7 +127,7 @@
         </div>
 
         <div class="card-main-content">
-          <img class="img-main-card" src="img/tarjetas-conf/pi.jpg" alt="">
+          <img class="img-main-card" src="img/tarjetas-conf/rasp.jpg" alt="">
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
@@ -145,7 +145,7 @@
         </div>
 
         <div class="card-main-content">
-          <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+          <img class="img-main-card" src="img/tarjetas-conf/code.jpg" alt="">
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
@@ -163,7 +163,7 @@
         </div>
 
         <div class="card-main-content">
-          <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+          <img class="img-main-card" src="img/tarjetas-conf/web.jpg" alt="">
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
@@ -183,7 +183,7 @@
         </div>
 
         <div class="card-main-content">
-          <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+          <img class="img-main-card" src="img/debiann.jpg" alt="">
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
@@ -203,7 +203,7 @@
         </div>
 
         <div class="card-main-content">
-          <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+          <img class="img-main-card" src="img/tarjetas-conf/compfore.jpg" alt="">
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
@@ -227,7 +227,7 @@
         </div>
 
         <div class="card-main-content">
-          <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+          <img class="img-main-card" src="img/tarjetas-conf/bas.jpg" alt="">
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
