@@ -424,7 +424,11 @@ h1{
   justify-content: flex-end;
   margin-bottom: 40px;
 }
-.band-register button {
+.band-register a{
+  text-decoration: none;
+
+}
+.band-register a div {
   margin-right: 4rem;
   padding: 20px;
   border-radius: 100px;
@@ -435,7 +439,9 @@ h1{
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
   border: none;
+  cursor: pointer;
 }
+
 
 /* ESTILOS BANDAS DE TEGISTRO FIN */
 
@@ -444,13 +450,14 @@ h1{
   width: 100%;
   background-color: blue;
   height: auto;
+  margin-bottom: 100px;
 }
 
 .half {
   float: left;
   width: 100%;
   padding: 3em 1em;
-  background-color: red;
+  /* background-color: red; */
 
 }
 /* Acordeon styles */
@@ -550,15 +557,20 @@ h1{
 /*ESTILOS DE ACORDEON FIN*/
 
 /* ESTILOS DE ORGANIZADORES INICIO */
+.org-tit{
+  margin-top: 310px;
+}
 .wrap-organizadores{
-  background-color: pink;
+  /* background-color: pink; */
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-  padding: 0px 80px;
+  padding: 30px 80px;
 }
 .org-person{
   padding: 30px 60px;
+  text-align: center;
+
 }
 
 .org-person img{
@@ -575,6 +587,29 @@ h1{
 
 /* ESTILOS DE ORGANIZADORES FIN */
 
+
+
+/* ESTILOS DEL TEAM DEV INICIO */
+
+.prof-box{
+  background-color: #02A9F7;
+  position: absolute;
+  margin-top: -30px;
+width: 200px;
+  padding:5px 5px;
+}
+.prof-box p{
+ text-transform: uppercase;
+ font-family: 'Share Tech', sans-serif;
+  color: #fff;
+}
+.prof {
+  margin-top: 15px;
+  text-align: center;
+}
+
+/* ESTILOS DEL TEAM DEV FIN */
+
 /* ESTILOS FOOTER INICIO */
 
 footer{
@@ -583,9 +618,12 @@ footer{
   font-size: 23px;
   font-family: 'Lato', sans-serif;
 }
+.foo-cid{
+  padding-top:30px;
+}
 .back-itemss {
   display: flex;
-  background-color: red;
+  /* background-color: red; */
   justify-content: space-around;
   padding: 40px 0px;
 }
@@ -605,6 +643,7 @@ footer{
 .contain-follow p{
   font-family: 'Share Tech', sans-serif;
   font-weight: lighter;
+
 }
 
 .icons-bocs{
@@ -1074,6 +1113,14 @@ footer{
      height: 2.5px;
   }
 
+  .tab{
+    width: 100%;
+  }
+
+  .foo-cid{
+    font-size: 20px;
+  }
+
 }
 @media only screen and (min-width: 769px) and (max-width: 920px){
   .logo{
@@ -1145,6 +1192,23 @@ footer{
 @media only screen and (min-width: 768px) and (max-width: 1029px){
   .backImg{
     width: 68%;
+  }
+
+}
+
+@media only screen and (max-width: 880px){
+  .tab-content{
+    font-size: 15px;
+
+  }
+  .tab-content div img{
+    padding-right: 25px;
+    }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1230px){
+  .tab{
+    width: 90%;
   }
 }
 /* MEDIA QUERIES FIN */

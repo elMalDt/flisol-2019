@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/styless.css">
+    <link rel="stylesheet" href="css/styles.css">
     <script type="text/javascript" src="js/main.js">
 
     </script>
@@ -249,7 +249,11 @@
 
 
   <div class="band-register">
-    <button type="button" name="button">¡Registrate gratis!</button>
+    <a href="#">
+    <div class="">
+        ¡Registrate gratis!
+    </div>
+  </a>
   </div>
 
   <h1>talleres</h1>
@@ -452,9 +456,13 @@
 </div>
 
 
-  <div class="band-register">
-    <button type="button" name="button">¡Registrate gratis!</button>
+<div class="band-register">
+  <a href="#">
+  <div class="">
+      ¡Registrate gratis!
   </div>
+</a>
+</div>
 
 
   <!-- colocar cards para talleres INICIO -->
@@ -582,7 +590,7 @@
   </div>
 </div>
 
-    <h1>organizadores</h1>
+    <h1 class="org-tit">organizadores</h1>
 
 <!-- INTRODUZCA CODIGO ORGANIZADORES INICIO -->
 <div class="wrap-organizadores">
@@ -630,6 +638,31 @@
 </div>
 
 
+<h1 style="margin-top:30px;">Desarrolladores CIDWA</h1>
+  <div class="wrap-organizadores">
+    <div class="org-person">
+      <img src="img/organiz-ejemp/29.jpg" alt="">
+      <div class="prof-box">
+        <p>Arturo Guerrero</p>
+      </div>
+      <p class="prof">Project Manager</p>
+    </div>
+    <div class="org-person">
+      <img src="img/organiz-ejemp/29.jpg" alt="">
+      <div class="prof-box">
+        <p>Enrique Maya</p>
+      </div>
+      <p class="prof">Desarrollador Web</p>
+    </div>
+    <div class="org-person">
+      <img src="img/organiz-ejemp/29.jpg" alt="">
+      <div class="prof-box">
+        <p>Hugo Enriquez</p>
+      </div>
+      <p class="prof">Desarrollador Web</p>
+    </div>
+  </div>
+
 <!-- INTRODUZCA CODIGO ORGANIZADORES FIN -->
 
 
@@ -637,7 +670,7 @@
 <!-- INTRODUZCA CODIGO DESARROLLADORES FIN -->
 
 <footer>
-  <p>
+  <p class="foo-cid">
     Pagina hecha con &#x1F496; por CIDWA
     para  la FES Acatlàn
   </p>
@@ -648,11 +681,17 @@
         <p>siguenos en:</p>
       </div>
       <div class="icons-bocs">
-        <i class="fab fa-facebook-square"></i>
-        <i class="fab fa-instagram"></i>
+        <a href="https://www.facebook.com/fes.acatlan/" style="text-decoration: none; color: #fff;">
+          <i class="fab fa-facebook-square"></i>
+        </a>
+        <a href="https://www.instagram.com/fes_acatlan/?hl=en" style="text-decoration: none; color: #fff;">
+          <i class="fab fa-instagram"></i>
+        </a>
       </div>
     </div>
-    <img src="img/logo-acatlan.png" alt="">
+    <a href="https://www.acatlan.unam.mx/">
+      <img src="img/logo-acatlan.png" alt="">
+    </a>
   </div>
 </footer>
 
