@@ -339,7 +339,7 @@ h1{
 
 .que-es-flisol p{
   color: #02577A;
-  font-size: 24px;
+  font-size: 21px;
   font-family: 'Roboto', sans-serif;
   margin-top: 30px;
   margin-bottom: 100px;
@@ -501,6 +501,8 @@ h1{
 
 .tab-content div img{
   height: 100px;
+  width: 120px;
+  margin-right: 15px;
   display: block;
   padding: 10px;
 
@@ -628,8 +630,9 @@ footer{
   padding: 40px 0px;
 }
 .back-itemss img{
-  width: 120px;
-  height: 140px;
+  margin-top: 20px;
+  width: 110px;
+  height: 120px;
 }
 .contain-follow{
   color: #01303F;

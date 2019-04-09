@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/styless.css">
+    <link rel="stylesheet" href="css/estiloss.css">
     <script type="text/javascript" src="js/main.js">
 
     </script>
@@ -78,11 +78,7 @@
       <h1>Acerca de FLISoL</h1>
       <p>
       El FLISoL es el evento de difusión de Software Libre más grande en Latinoamérica
-      y está dirigido a todo tipo de público: estudiantes, académicos, empresarios,
-      trabajadores, funcionarios públicos, entusiastas y aun personas que no poseen
-      mucho conocimiento informático. </br> Se realiza desde el año 2005 y desde el 2008
-      se adoptó su realización el 4to Sábado de abril de cada año. La entrada es
-      gratuita y su principal objetivo es promover el uso del software libre, dando
+      y está dirigido a todo tipo de público. Se realiza desde el año 2005 y su principal objetivo es promover el uso del software libre, dando
       a conocer al público en general su filosofía, alcances, avances y desarrollo.
       </p>
     </span>
@@ -254,7 +250,7 @@
   <div class="band-register">
     <a href="register.php">
     <div class="">
-        ¡Regístrate!
+        ¡Regístrate Gratis!
     </div>
   </a>
   </div>
@@ -467,10 +463,10 @@
           <h2>LaTeX Académico</h2>
           <p> <strong> IMPARTE: </strong> <br> Víctor Vázquez <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
           <p><strong> OBJETIVO: </strong> <br>
-	  Aplicar LaTeX para el desarrollo de productos académicos; en particular, 
-	  tesis, libros y brevemente artículos. El participante obtendrá los conocimientos 
+	  Aplicar LaTeX para el desarrollo de productos académicos; en particular,
+	  tesis, libros y brevemente artículos. El participante obtendrá los conocimientos
 	  necesarios para el trabajo de archivos robustos mediante el paradigma modular,
-	  creación de funciones, comandos y uso web (Moodle), entre otros. 
+	  creación de funciones, comandos y uso web (Moodle), entre otros.
           </p>
         </div>
       </div>
@@ -499,7 +495,7 @@
 <div class="band-register">
   <a href="register.php">
   <div class="">
-      ¡Regístrate!
+      ¡Regístrate Gratis!
   </div>
 </a>
 </div>
@@ -508,43 +504,39 @@
   <!-- colocar cards para talleres INICIO -->
   <!-- colocar cards para talleres FIN -->
 
-  <h1 id="apps">apps: <br> software libre vs <br> software comercial </h1>
+  <h1 id="apps">alternativas <br>libres al <br> software comercial </h1>
 
   <div class="wrapperr">
   <div class="half">
     <div class="tab">
       <input id="tab-one" type="checkbox" name="tabs">
-      <label for="tab-one">Vlc vs Media Player</label>
+      <label for="tab-one">Windows vs Linux</label>
       <div class="tab-content">
         <div class="">
-          <img src="img/iconos-com/vlc.png" alt="">
+          <img src="img/iconos-com/windows.png" alt="">
           <ul style="display: inline-block;">
             <li>
-              Lorem Ipsum is simply dummy
-              text of the printing and
-              typesetting industry.
+              Es el sistema operativo más popular en el mundo.
             </li>
             <li>
-              typesetting industry.
+              Fácil manejo e instalación de dispositivos.
             </li>
             <li>
-              text of the printing
+              Gran compatibilidad con hardware existente en el mercado.
             </li>
           </ul>
         </div>
         <div class="">
-          <img src="img/iconos-com/mp.png" alt="">
+          <img src="img/iconos-com/linux.png" alt="">
           <ul style="display: inline-block;">
             <li>
-              Lorem Ipsum is simply dummy
-              text of the printing and
-              typesetting industry.
+              Es muy robusto, estable y rápido.
             </li>
             <li>
-              typesetting industry.
+              Ideal para servidores y aplicaciones distribuidas.
             </li>
             <li>
-              text of the printing
+              No está restringido a personas con grandes conocimientos <br>de informática.
             </li>
           </ul>
         </div>
@@ -553,37 +545,33 @@
     </div>
       <div class="tab">
         <input id="tab-two" type="checkbox" name="tabs">
-        <label for="tab-two">Vlc vs Media Player</label>
+        <label for="tab-two">MsOffice vs LibreOffice</label>
         <div class="tab-content">
           <div class="">
-            <img src="img/iconos-com/vlc.png" alt="">
+            <img src="img/iconos-com/msoffice.png" alt="">
             <ul style="display: inline-block;">
               <li>
-                Lorem Ipsum is simply dummy
-                text of the printing and
-                typesetting industry.
+                La mayoría de las empresas lo utilizan.
               </li>
               <li>
-                typesetting industry.
+                Es un software muy completo al realizar diversas tareas.
               </li>
               <li>
-                text of the printing
+                Microsoft ofrece asistencia en linea para sus productos Office.
               </li>
             </ul>
           </div>
           <div class="">
-            <img src="img/iconos-com/mp.png" alt="">
+            <img src="img/iconos-com/Libreoffice.png" alt="">
             <ul style="display: inline-block;">
               <li>
-                Lorem Ipsum is simply dummy
-                text of the printing and
-                typesetting industry.
+                Ciclo regular de solo dos actualizaciones anuales
               </li>
               <li>
-                typesetting industry.
+                LibreOffice funciona en cualquier distribución de Linux, en Windows y Mac.
               </li>
               <li>
-                text of the printing
+                LibreOffice se distribuye de manera gratuita.
               </li>
             </ul>
           </div>
@@ -591,37 +579,107 @@
       </div>
       <div class="tab">
         <input id="tab-three" type="checkbox" name="tabs">
-        <label for="tab-three">Vlc vs Media Player</label>
+        <label for="tab-three">Photoshop vs Gimp</label>
         <div class="tab-content">
           <div class="">
-            <img src="img/iconos-com/vlc.png" alt="">
+            <img src="img/iconos-com/ps.png" alt="">
             <ul style="display: inline-block;">
               <li>
-                Lorem Ipsum is simply dummy
-                text of the printing and
-                typesetting industry.
+                Te ayuda a corregir fotos con problemas de exposición.
               </li>
               <li>
-                typesetting industry.
+                Se utilizan para eliminar elementos que no desean incluir <br> en sus imagenes.
               </li>
               <li>
-                text of the printing
+                Facilita la edición de fotos y permite ilustrar digitalmente con una gran <br> cantidad de herramientas bajo el mismo software.
               </li>
             </ul>
           </div>
           <div class="">
-            <img src="img/iconos-com/mp.png" alt="">
+            <img src="img/iconos-com/gimp.png" alt="">
             <ul style="display: inline-block;">
               <li>
-                Lorem Ipsum is simply dummy
-                text of the printing and
-                typesetting industry.
+              Gimp y sus Plugin se pueden obtener Gratis.
               </li>
               <li>
-                typesetting industry.
+                Esta disponible para múltiples plataformas y Sistemas Operativos.
               </li>
               <li>
-                text of the printing
+                Ocupa muy poco espacio en nuestro disco duro.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="tab">
+        <input id="tab-four" type="checkbox" name="tabs">
+        <label for="tab-four">Play Store vs F-Droid</label>
+        <div class="tab-content">
+          <div class="">
+            <img src="img/iconos-com/playstore.png" alt="">
+            <ul style="display: inline-block;">
+              <li>
+                la gran mayoría de las apps son gratuitas.
+              </li>
+              <li>
+                La descarga de apps es totalmente segura.
+              </li>
+              <li>
+                 apps clasificadas por categorías de forma muy ordenada y <br>
+                además puedes usar el buscador mediante palabras clave
+              </li>
+            </ul>
+          </div>
+          <div class="">
+            <img src="img/iconos-com/fdroid.png" alt="">
+            <ul style="display: inline-block;">
+              <li>
+                Es una alternativa a la Play Store.
+              </li>
+              <li>
+                Apps con mayor privacidad y transparencia.
+              </li>
+              <li>
+                Se pueden compartir apps por Bluetooth y sin conexion a <br>  internet.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+
+
+      <div class="tab">
+        <input id="tab-six" type="checkbox" name="tabs">
+        <label for="tab-six">Adobe Premiere vs KDEnlive</label>
+        <div class="tab-content">
+          <div class="">
+            <img src="img/iconos-com/pr.png" alt="">
+            <ul style="display: inline-block;">
+              <li>
+                nos va a dejar importar todo tipo de formatos: jpg, gif, psd, mp3, mp4, etc.
+              </li>
+              <li>
+                podemos importar secuencias de Adobe After Effects o la <br> sucesión de imágenes  <br> creadas por 3D Studio Max.
+              </li>
+              <li>
+                Compatible con Mac y Windows.
+              </li>
+            </ul>
+          </div>
+          <div class="">
+            <img src="img/iconos-com/enlive.png" alt="">
+            <ul style="display: inline-block;">
+              <li>
+                ¡Es Gratis!, hermano.
+              </li>
+              <li>
+                es capaz de manipular cualquier formato y hace que no <br>
+                sea obligatorio convertir los videos antes de editarlos.
+              </li>
+              <li>
+                Este programa es muy versátil y permite editar material de  cámaras DV, <br>HDV y AVCHD.
               </li>
             </ul>
           </div>
