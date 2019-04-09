@@ -30,15 +30,15 @@
 
       <nav class="navigation__nav">
           <ul class="navigation__list">
-              <li class="navigation__item"><a href="#" class="navigation__link"><i class="far fa-user-circle circ"></i></a></li>
-              <li class="navigation__item"><a href="#" class="navigation__link">Inicio</a></li>
-              <li class="navigation__item"><a href="#" class="navigation__link">¿què es flisol?</a></li>
-              <li class="navigation__item"><a href="#" class="navigation__link">conferencias</a></li>
-              <li class="navigation__item"><a href="#" class="navigation__link">talleres</a></li>
-              <li class="navigation__item"><a href="#" class="navigation__link">apps</a></li>
-              <li class="navigation__item"><a href="#" class="navigation__link">organizadores</a></li>
-              <li class="navigation__item"><a href="#" class="navigation__link">desarrolladores</a></li>
-              <li class="navigation__item"><a href="#" class="navigation__link">inicar sesiòn</a></li>
+              <!-- <li class="navigation__item"><a href="#" class="navigation__link"><i class="far fa-user-circle circ"></i></a></li> -->
+              <li class="navigation__item"><a href="index.php" class="navigation__link">Inicio</a></li>
+              <li class="navigation__item"><a href="#que-es" class="navigation__link">¿què es flisol?</a></li>
+              <li class="navigation__item"><a href="#conferencias" class="navigation__link">conferencias</a></li>
+              <li class="navigation__item"><a href="#talleres" class="navigation__link">talleres</a></li>
+              <li class="navigation__item"><a href="#apps" class="navigation__link">apps</a></li>
+              <li class="navigation__item"><a href="#organizadores" class="navigation__link">organizadores</a></li>
+              <li class="navigation__item"><a href="#desarrolladores" class="navigation__link">desarrolladores</a></li>
+              <li class="navigation__item"><a href="register.php" class="navigation__link">inicar sesiòn</a></li>
 
               </ul>
       </nav>
@@ -74,7 +74,7 @@
       </div>
     </header>
 
-    <span class="que-es-flisol">
+    <span id="que-es" class="que-es-flisol">
       <h1>¿Flisol?, ¿Qué clase de <br /> meme es ese?</h1>
       <p>
         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -84,7 +84,7 @@
       </p>
     </span>
 
-    <h1>conferencias</h1>
+    <h1 id="conferencias">conferencias</h1>
 
     <div class="card-cont">
 
@@ -256,7 +256,7 @@
   </a>
   </div>
 
-  <h1>talleres</h1>
+  <h1 id="talleres">talleres</h1>
 
   <div class="card-cont">
 
@@ -468,7 +468,7 @@
   <!-- colocar cards para talleres INICIO -->
   <!-- colocar cards para talleres FIN -->
 
-  <h1>apps: <br> software libre vs <br> software comercial </h1>
+  <h1 id="apps">apps: <br> software libre vs <br> software comercial </h1>
 
   <div class="wrapperr">
   <div class="half">
@@ -590,7 +590,7 @@
   </div>
 </div>
 
-    <h1 class="org-tit">organizadores</h1>
+    <h1 id="organizadores" class="org-tit">organizadores</h1>
 
 <!-- INTRODUZCA CODIGO ORGANIZADORES INICIO -->
 <div class="wrap-organizadores">
@@ -638,7 +638,7 @@
 </div>
 
 
-<h1 style="margin-top:30px;">Desarrolladores CIDWA</h1>
+<h1 id="desarrolladores" style="margin-top:30px;">Desarrolladores CIDWA</h1>
   <div class="wrap-organizadores">
     <div class="org-person">
       <img src="img/organiz-ejemp/29.jpg" alt="">

@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Conferencias por asistir</title>
-    <link rel="stylesheet" href="../css/estilo.css">
+    <link rel="stylesheet" href="../css/styles.css">
   </head>
   <body>
     <h1 class="titulo add-conf-titu">Mis conferencias<br>por asistir. </h1>
