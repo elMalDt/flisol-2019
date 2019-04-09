@@ -70,17 +70,20 @@
           </div>
         </h1>
 
-        <a href="#" class="bot bot-white bot-animated">¡Registrate Gratis!</a>
+        <a href="#" class="bot bot-white bot-animated">¡Regístrate!</a>
       </div>
     </header>
 
     <span id="que-es" class="que-es-flisol">
-      <h1>¿Flisol?, ¿Qué clase de <br /> meme es ese?</h1>
+      <h1>Acerca de FLISoL</h1>
       <p>
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-        when an unknown printer took a galley of type and scrambled it to make a type
-        specimen book.
+      El FLISoL es el evento de difusión de Software Libre más grande en Latinoamérica
+      y está dirigido a todo tipo de público: estudiantes, académicos, empresarios,
+      trabajadores, funcionarios públicos, entusiastas y aun personas que no poseen
+      mucho conocimiento informático. </br> Se realiza desde el año 2005 y desde el 2008
+      se adoptó su realización el 4to Sábado de abril de cada año. La entrada es
+      gratuita y su principal objetivo es promover el uso del software libre, dando
+      a conocer al público en general su filosofía, alcances, avances y desarrollo.
       </p>
     </span>
 
@@ -251,7 +254,7 @@
   <div class="band-register">
     <a href="#">
     <div class="">
-        ¡Registrate gratis!
+        ¡Regístrate!
     </div>
   </a>
   </div>
@@ -261,7 +264,7 @@
   <div class="card-cont">
 
       <div class="card-main-content">
-        <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+        <img class="img-main-card" src="img/tarjetas-conf/bash.png" alt="">
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
@@ -281,7 +284,24 @@
       </div>
 
       <div class="card-main-content">
-        <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+        <img class="img-main-card" src="img/tarjetas-conf/tails.png" alt="">
+        <div class="back-card"></div>
+        <div class="main-card-section">
+          <span>
+            <p> <strong> Miércoles </strong></p>
+            <p> <strong> 11:00 AM - 13:00 PM </strong></p>
+          </span>
+          <h2>Introducción a la privacidad y anonimato en Tails</h2>
+          <p> <strong> IMPARTE: </strong> <br> Carlos Martínez <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
+          <p><strong> OBJETIVO: </strong> <br>
+	  Aprender a usar el sistema operativo vivo Tails para ayudarnos a
+	  mejorar nuestra privacidad y anonimato.
+          </p>
+        </div>
+      </div>
+
+      <div class="card-main-content">
+        <img class="img-main-card" src="img/tarjetas-conf/julia.png" alt="">
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
@@ -303,7 +323,7 @@
       </div>
 
       <div class="card-main-content">
-        <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+        <img class="img-main-card" src="img/tarjetas-conf/r.png" alt="">
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
@@ -323,7 +343,7 @@
       </div>
 
       <div class="card-main-content">
-        <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+        <img class="img-main-card" src="img/tarjetas-conf/scraping.png" alt="">
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
@@ -342,7 +362,7 @@
       </div>
 
       <div class="card-main-content">
-        <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+        <img class="img-main-card" src="img/tarjetas-conf/tierra.jpg" alt="">
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
@@ -356,6 +376,25 @@
             la estadística espacial y al software de GEODA para
             realizar análisis exploratorio de datos espaciales.
             Conocimientos previos: Nociones básicas de estadística descriptiva y computación.
+          </p>
+        </div>
+      </div>
+
+      <div class="card-main-content">
+        <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+        <div class="back-card"></div>
+        <div class="main-card-section">
+          <span>
+            <p> <strong> Miércoles </strong></p>
+            <p> <strong> 1:00PM - 3:00 PM </strong></p>
+          </span>
+          <h2>Taller básico de LaTeX</h2>
+          <p> <strong> IMPARTE: </strong> <br> Víctor Vázquez <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
+          <p><strong> OBJETIVO: </strong> <br>
+            Los participantes adquirirán la habilidad de hacer
+            documentos científicos de alta calidad tipográfica
+            con el fin de producirlos por si mismos.
+            Conocimientos previos: Ninguno
           </p>
         </div>
       </div>
@@ -425,13 +464,13 @@
             <p> <strong> MIERCOLES </strong></p>
             <p> <strong> 1:00PM - 3:00 PM </strong></p>
           </span>
-          <h2>Taller básico de LaTeX</h2>
+          <h2>LaTeX Académico</h2>
           <p> <strong> IMPARTE: </strong> <br> Víctor Vázquez <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
           <p><strong> OBJETIVO: </strong> <br>
-            Los participantes adquirirán la habilidad de hacer
-            documentos científicos de alta calidad tipográfica
-            con el fin de producirlos por si mismos.
-            Conocimientos previos: Ninguno
+	  Aplicar LaTeX para el desarrollo de productos académicos; en particular, 
+	  tesis, libros y brevemente artículos. El participante obtendrá los conocimientos 
+	  necesarios para el trabajo de archivos robustos mediante el paradigma modular,
+	  creación de funciones, comandos y uso web (Moodle), entre otros. 
           </p>
         </div>
       </div>
@@ -449,7 +488,8 @@
           <p><strong> OBJETIVO: </strong> <br>
             Que el asistente aprenda el uso del MVS Laravel y pueda
             realizar proyectos con dicho framework, realización de
-            una API con CRUDs para el consumo del front-end. Conocimientos previos: PHP básico, MySQL básico.
+	    una API con CRUDs para el consumo del front-end.
+	Conocimientos previos: PHP básico, MySQL básico.
           </p>
         </div>
       </div>
@@ -459,7 +499,7 @@
 <div class="band-register">
   <a href="#">
   <div class="">
-      ¡Registrate gratis!
+      ¡Regístrate!
   </div>
 </a>
 </div>
