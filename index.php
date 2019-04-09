@@ -252,7 +252,7 @@
 
 
   <div class="band-register">
-    <a href="#">
+    <a href="register.php">
     <div class="">
         ¡Regístrate!
     </div>
@@ -497,7 +497,7 @@
 
 
 <div class="band-register">
-  <a href="#">
+  <a href="register.php">
   <div class="">
       ¡Regístrate!
   </div>
