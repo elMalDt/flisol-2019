@@ -70,7 +70,7 @@
           </div>
         </h1>
 
-        <a href="#" class="bot bot-white bot-animated">¡Registrate Gratis!</a>
+        <a href="register.php" class="bot bot-white bot-animated">¡Registrate Gratis!</a>
       </div>
     </header>
 
@@ -249,7 +249,7 @@
 
 
   <div class="band-register">
-    <a href="#">
+    <a href="register.php">
     <div class="">
         ¡Registrate gratis!
     </div>
@@ -457,7 +457,7 @@
 
 
 <div class="band-register">
-  <a href="#">
+  <a href="register.php">
   <div class="">
       ¡Registrate gratis!
   </div>
