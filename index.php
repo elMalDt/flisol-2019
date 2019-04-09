@@ -92,12 +92,12 @@
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
-              <p> <strong> MIERCOLES </strong></p>
-              <p> <strong> 10:00AM - 11:00AM </strong></p>
+              <p> <strong> Miércoles </strong></p>
+              <p> <strong> 10:00 AM - 11:00 AM </strong></p>
             </span>
-            <h2>Migrando mi hogar a Linux</h2>
-            <p> <strong> PONENTE: </strong> <br> Susana María Valdivé Lunar <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
-            <p><strong> DESCRIPCION: </strong> <br>
+            <h2>Diseñadora Gráfica: Migrando mi hogar a Linux</h2>
+            <p> <strong> Ponente: </strong> <br> Susana Valdivé <br> <br> <strong> Lugar: </strong> <br> Sala de videoconferencias de la Unidad de Investigación Multidisciplinaria </p>
+            <p><strong> Descripción: </strong> <br>
               A través de mi experiencia invitar a los profesionales o
               estudiantes de diseño gráfico y carreras afines a utilizar
               el software libre.
@@ -110,13 +110,13 @@
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
-              <p> <strong> MIERCOLES </strong></p>
-              <p> <strong> 11:00AM - 12:00AM </strong></p>
+              <p> <strong> Miércoles </strong></p>
+              <p> <strong> 11:00 AM - 12:00 PM </strong></p>
             </span>
             <h2>Contenedores y virtualización opensource, de bajo costo y alto rendimiento</h2>
-            <p> <strong> PONENTE: </strong> <br> Raúl González <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
+            <p> <strong> Ponente: </strong> <br> Raúl González <br> <br> <strong> Lugar: </strong> <br> Sala de videoconferencias de la Unidad de Investigación Multidisciplinaria </p>
             <p>
-              <strong> DESCRIPCION: </strong> <br>
+              <strong> Descripción: </strong> <br>
               Conocer herramientas opensource que permiten la realización
               de contenedores (LXC) y virtualización (KVM), que son de un
                costo menor a comparación de herramientas de licenciamiento
@@ -130,12 +130,12 @@
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
-              <p> <strong> MIERCOLES </strong></p>
-              <p> <strong> 12:00PM - 13:00PM </strong></p>
+              <p> <strong> Miércoles </strong></p>
+              <p> <strong> 12:00 PM - 13:00 PM </strong></p>
             </span>
             <h2>Rho-Pi: Bot de Telegram para controlar una RaspberryPi</h2>
-            <p> <strong> PONENTE: </strong> <br>Rodrigo García <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
-            <p><strong> DESCRIPCION: </strong> <br>
+            <p> <strong> Ponente: </strong> <br>Rodrigo García <br> <br> <strong> Lugar: </strong> <br> Sala de videoconferencias de la Unidad de Investigación Multidisciplinaria </p>
+            <p><strong> Descripción: </strong> <br>
               Mostrar una manera sencilla de controlar
                una Raspberry Pi con un Bot de Telegram
                 mediante el uso de software libre.
@@ -148,12 +148,12 @@
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
-              <p> <strong> MIERCOLES </strong></p>
-              <p> <strong> 13:00PM - 14:00PM </strong></p>
+              <p> <strong> Miércoles </strong></p>
+              <p> <strong> 13:00 PM - 14:00 PM </strong></p>
             </span>
             <h2>Fedora containers</h2>
-            <p> <strong> PONENTE: </strong> <br>Alex Callejas<br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
-            <p><strong> DESCRIPCION: </strong> <br>
+            <p> <strong> Ponente: </strong> <br>Alex Callejas<br> <br> <strong> Lugar: </strong> <br> Sala de videoconferencias de la Unidad de Investigación Multidisciplinaria </p>
+            <p><strong> Descripción: </strong> <br>
               Compartir la instalación y uso de podman
                como alternativa libre a docker,
                en la administración de contenedores.
@@ -166,12 +166,12 @@
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
-              <p> <strong> MIERCOLES </strong></p>
-              <p> <strong> 15:00PM - 16:00PM </strong></p>
+              <p> <strong> Miércoles </strong></p>
+              <p> <strong> 15:00 PM - 16:00 PM </strong></p>
             </span>
             <h2>Creación de aplicaciones web utilizando software libre como base</h2>
-            <p> <strong> PONENTE: </strong> <br>Sergio Ramos <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
-            <p><strong> DESCRIPCION: </strong> <br>
+            <p> <strong> Ponente: </strong> <br>Sergio Ramos <br> <br> <strong> Lugar: </strong> <br> Sala de videoconferencias de la Unidad de Investigación Multidisciplinaria </p>
+            <p><strong> Descripción: </strong> <br>
               Relatar nuestra experiencia en el desarrollo
               de productos digitales utilizando el software
               libre como piedra angular. Los asistentes conocerán
@@ -186,12 +186,12 @@
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
-              <p> <strong> MIERCOLES </strong></p>
-              <p> <strong> 16:00PM - 17:00PM </strong></p>
+              <p> <strong> Miércoles </strong></p>
+              <p> <strong> 16:00 PM - 17:00 PM </strong></p>
             </span>
             <h2>Debian y su misión con el software libre</h2>
-            <p> <strong> PONENTE: </strong> <br>Diego Hernández<br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
-            <p><strong> DESCRIPCION: </strong> <br>
+            <p> <strong> Ponente: </strong> <br>Diego Hernández<br> <br> <strong> Lugar: </strong> <br> Sala de videoconferencias de la Unidad de Investigación Multidisciplinaria </p>
+            <p><strong> Descripción: </strong> <br>
               Dar a conocer las características del sistema
               operativo Debian, su filosofía, su  enfoque
               hacia  el  software  libre, incitar a que más
@@ -207,11 +207,11 @@
           <div class="main-card-section">
             <span>
               <p> <strong> JUEVES </strong></p>
-              <p> <strong> 16:00PM a 18:00PM </strong></p>
+              <p> <strong> 16:00 PM a 18:00 PM </strong></p>
             </span>
             <h2 style="font-size: 20px;">Informática forense con software libre: demostración de hallazgos/evidencia digital aplicable a una investigación criminal</h2>
-            <p> <strong> PONENTES: </strong> <br>Alejandra Morán, Erick Tonchi<br> <br> <strong> LUGAR: </strong> <br> SALA DE USOS MÚLTIPLES DEL CENTRO DE DESARROLLO TECNOLÓGICO</p>
-            <p><strong> DESCRIPCION: </strong> <br>
+            <p> <strong> PonenteS: </strong> <br>Alejandra Morán, Erick Tonchi<br> <br> <strong> Lugar: </strong> <br> Sala de usos múltiples del Centro de Desarrollo Tecnológico</p>
+            <p><strong> Descripción: </strong> <br>
               Mostrar a los asistentes una demostración del
               análisis forense sobre  medios digitales
               mediante software libre “The Sleuthkit”
@@ -231,11 +231,11 @@
           <div class="main-card-section">
             <span>
               <p> <strong> VIERNES </strong></p>
-              <p> <strong> 10:00AM - 11:00AM </strong></p>
+              <p> <strong> 10:00 AM - 11:00 AM </strong></p>
             </span>
             <h2>Linux contra la basura electrónica</h2>
-            <p> <strong> PONENTE: </strong> <br>Víctor Ruíz<br> <br> <strong> LUGAR: </strong> <br> SALA DE USOS MÚLTIPLES DEL CENTRO DE DESARROLLO TECNOLÓGICO </p>
-            <p><strong> DESCRIPCION: </strong> <br>
+            <p> <strong> Ponente: </strong> <br>Víctor Ruíz<br> <br> <strong> Lugar: </strong> <br> Sala de usos múltiples del Centro de Desarrollo Tecnológico </p>
+            <p><strong> Descripción: </strong> <br>
               Dar a conocer las acciones que Silikn
               está realizando para reducir la basura
               electrónica y al mismo tiempo la brecha
@@ -260,19 +260,20 @@
   <div class="card-cont">
 
       <div class="card-main-content">
-        <img class="img-main-card" src="img/tarjetas-conf/bash.png" alt="">
+        <img class="img-main-card" src="img/tarjetas-conf/bash.jpg" alt="">
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> MIERCOLES </strong></p>
-            <p> <strong> 9:00AM - 11:00 AM </strong></p>
+            <p> <strong> Miércoles </strong></p>
+            <p> <strong> 9:00 AM - 11:00 AM </strong></p>
           </span>
           <h2>Introducción a BASH scripting</h2>
-          <p> <strong> IMPARTE: </strong> <br> Enrique García <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
-          <p><strong> OBJETIVO: </strong> <br>
+          <p> <strong> Imparte: </strong> <br> Enrique García <br> <br> <strong> Lugar: </strong> <br> Sala Linux </p>
+          <p><strong> Objetivo: </strong> <br>
             Que los asistentes conozcan los aspectos
             más básicos de BASH scripting, abordando, variables,
-            parámetros posicionales y flujo de programación Conocimientos previos:
+	    parámetros posicionales y flujo de programación </p>
+	  <p> <strong> Conocimientos previos: </strong> <br>
             Nociones básicas de lógica de programación, conocimiento de rutas
             y comandos para manipular archivos en GNU/Linux
           </p>
@@ -285,13 +286,16 @@
         <div class="main-card-section">
           <span>
             <p> <strong> Miércoles </strong></p>
-            <p> <strong> 11:00 AM - 13:00 PM </strong></p>
+            <p> <strong> 11:00 AM - 1:00 PM </strong></p>
           </span>
           <h2>Introducción a la privacidad y anonimato en Tails</h2>
-          <p> <strong> IMPARTE: </strong> <br> Carlos Martínez <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
-          <p><strong> OBJETIVO: </strong> <br>
+          <p> <strong> Imparte: </strong> <br> Carlos Martínez <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p><strong> Objetivo: </strong> <br>
 	  Aprender a usar el sistema operativo vivo Tails para ayudarnos a
 	  mejorar nuestra privacidad y anonimato.
+	  <p> <strong> Conocimientos previos: </strong> <br> 
+	  Alguna experiencia con GNU/Linux, traer USB de al menos 8GB vacia o nueva.
+          </p>
           </p>
         </div>
       </div>
@@ -301,18 +305,19 @@
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> MIERCOLES </strong></p>
+            <p> <strong> Jueves </strong></p>
             <p> <strong> 11:00AM - 1:00 PM </strong></p>
           </span>
           <h2>Introducción a JULIA con enfoque práctico</h2>
-          <p> <strong> IMPARTE: </strong> <br> Melissa Ponce <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
-          <p><strong> OBJETIVO: </strong> <br>
+          <p> <strong> Imparte: </strong> <br> Melissa Ponce <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p><strong> Objetivo: </strong> <br>
             Que los asistentes puedan conocer las principales
             herramientas del lenguaje de programación JULIA de tal
             manera que puedan tener intuición de cómo aplicarlas en
             problemas físicos, biológicos, etc. En concreto, se
-            abordarán problemas de computación numérica y simulación.
-            Conocimientos previos: Nociones básicas de lógica de programación
+	    abordarán problemas de computación numérica y simulación.</p>
+	  <p> <strong> Conocimientos previos: </strong> <br>
+            Nociones básicas de lógica de programación
             y control de flujo (if, else, for, while).
           </p>
         </div>
@@ -323,16 +328,17 @@
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> MIERCOLES </strong></p>
+            <p> <strong> Jueves </strong></p>
             <p> <strong> 11:00AM - 1:00 PM </strong></p>
           </span>
           <h2>R no estadístico</h2>
-          <p> <strong> IMPARTE: </strong> <br> Oscar Caballero <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
-          <p><strong> OBJETIVO: </strong> <br>
+          <p> <strong> Imparte: </strong> <br> Oscar Caballero <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p><strong> Objetivo: </strong> <br>
             El asistente aprenderá a manejar el paquete R,
             para hacer operaciones con matrices, vectores,
             encontrar derivadas de algunas funciones y los
-            principios de integrales.Conocimientos previos:
+	    principios de integrales.</b>
+	  <p> <strong> Conocimientos previos: </strong> <br>
             El asistente debe tener conocimientos sobre las áreas de Álgebra Lineal y Cálculo Diferencial
           </p>
         </div>
@@ -343,16 +349,17 @@
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> MIERCOLES </strong></p>
+            <p> <strong> Jueves </strong></p>
             <p> <strong> 11:00AM - 1:00 PM </strong></p>
           </span>
           <h2>Web Scraping</h2>
-          <p> <strong> IMPARTE: </strong> <br> Raúl González <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
-          <p><strong> OBJETIVO: </strong> <br>
+          <p> <strong> Imparte: </strong> <br> Raúl González <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p><strong> Objetivo: </strong> <br>
             Que el asistente aprenda web scraping, la cual es una
             técnica para extraer información de sitios web mediante
-            programas o lenguajes de programación. Conocimientos
-            previos: Conocimientos en lenguaje de programación Python o Java.
+	    programas o lenguajes de programación</p>
+	  <p> <strong> Conocimientos previos: </strong> <br>
+	Conocimientos básicos en el lenguaje de programación Python o Java.
           </p>
         </div>
       </div>
@@ -362,130 +369,140 @@
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> MIERCOLES </strong></p>
-            <p> <strong> 1:00PM - 3:00 PM </strong></p>
+            <p> <strong> Jueves </strong></p>
+            <p> <strong> 1:00 PM - 3:00 PM </strong></p>
           </span>
           <h2>Análisis de datos espaciales con GEODA</h2>
-          <p> <strong> IMPARTE: </strong> <br> Diego Galván <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
-          <p><strong> OBJETIVO: </strong> <br>
+          <p> <strong> Imparte: </strong> <br> Diego Galván <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p><strong> Objetivo: </strong> <br>
             Dar una introducción a los conceptos básicos de
             la estadística espacial y al software de GEODA para
-            realizar análisis exploratorio de datos espaciales.
-            Conocimientos previos: Nociones básicas de estadística descriptiva y computación.
+	    realizar análisis exploratorio de datos espaciales.</b>
+	  <p> <strong> Conocimientos previos: </strong> <br>
+            Nociones básicas de estadística descriptiva y computación.
           </p>
         </div>
       </div>
 
       <div class="card-main-content">
-        <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+        <img class="img-main-card" src="img/tarjetas-conf/latex.png" alt="">
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
             <p> <strong> Miércoles </strong></p>
-            <p> <strong> 1:00PM - 3:00 PM </strong></p>
+            <p> <strong> 1:00 PM - 3:00 PM </strong></p>
           </span>
           <h2>Taller básico de LaTeX</h2>
-          <p> <strong> IMPARTE: </strong> <br> Víctor Vázquez <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
-          <p><strong> OBJETIVO: </strong> <br>
+          <p> <strong> Imparte: </strong> <br> Víctor Vázquez <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p><strong> Objetivo: </strong> <br>
             Los participantes adquirirán la habilidad de hacer
             documentos científicos de alta calidad tipográfica
-            con el fin de producirlos por si mismos.
-            Conocimientos previos: Ninguno
+	    con el fin de producirlos por si mismos.</b>
+	  <p> <strong> Conocimientos previos: </strong> <br>
+          Ninguno
           </p>
         </div>
       </div>
 
       <div class="card-main-content">
-        <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+        <img class="img-main-card" src="img/tarjetas-conf/blender.png" alt="">
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> MIERCOLES </strong></p>
-            <p> <strong> 1:00PM - 3:00 PM </strong></p>
+            <p> <strong> Jueves </strong></p>
+            <p> <strong> 1:00 PM - 3:00 PM </strong></p>
           </span>
           <h2>Taller básico de Blender</h2>
-          <p> <strong> IMPARTE: </strong> <br> Akzayakatl Colín y Eduardo Baliñas <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
-          <p><strong> OBJETIVO: </strong> <br>
-            Que el asistente apenda los conceptos
+          <p> <strong> Imparte: </strong> <br> Akzayakatl Colín y Eduardo Baliñas <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p><strong> Objetivo: </strong> <br>
+            Que los asistentes aprendan los conceptos
             básicos de modelado 3D y termine con un
-            archivo para tener su modelado en físico.
-            Conocimientos previos: Ninguno
+            archivo para tener su modelado en físico.</b>
+	  <p> <strong> Conocimientos previos: </strong> <br>
+            Ninguno
           </p>
         </div>
       </div>
 
       <div class="card-main-content">
-        <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+        <img class="img-main-card" src="img/tarjetas-conf/emacs.png" alt="">
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> MIERCOLES </strong></p>
-            <p> <strong> 1:00PM - 3:00 PM </strong></p>
+            <p> <strong> Jueves </strong></p>
+            <p> <strong> 1:00 PM - 3:00 PM </strong></p>
           </span>
           <h2>Introducción a Emacs</h2>
-          <p> <strong> IMPARTE: </strong> <br> Diego Martínez <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
-          <p><strong> OBJETIVO: </strong> <br>
+          <p> <strong> Imparte: </strong> <br> Diego Martínez <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p><strong> Objetivo: </strong> <br>
             Mostrarle a la comunidad la existencia, el uso y
             los beneficios de un editor de textos libre como Emacs,
             el cual puede ser usado desde edición de archivos de texto
             simples, hasta para la edición y escritura de código en
-            diferentes lenguajes de programación. Conocimientos previos: Ninguno
+            diferentes lenguajes de programación. </b>
+	  <p> <strong> Conocimientos previos: </strong> <br>
+	    Ninguno
           </p>
         </div>
       </div>
 
       <div class="card-main-content">
-        <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+        <img class="img-main-card" src="img/tarjetas-conf/inkscape.png" alt="">
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> MIERCOLES </strong></p>
-            <p> <strong> 4:00PM – 6:00 PM </strong></p>
+            <p> <strong> Jueves </strong></p>
+            <p> <strong> 4:00 PM – 6:00 PM </strong></p>
           </span>
           <h2>Diseñando un flyer con Inkscape</h2>
-          <p> <strong> IMPARTE: </strong> <br> Susana Valdivé <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
-          <p><strong> OBJETIVO: </strong> <br>
+          <p> <strong> Imparte: </strong> <br> Susana Valdivé <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p><strong> Objetivo: </strong> <br>
             Aprender a diseñar un flyer con herramientas
             libres y comparando Inkscape contra otro programa
-            de vectores de código cerrado. Conocimientos previos: Nociones de diseño gráfico.
+            de vectores de código cerrado. </b>
+	  <p> <strong> Conocimientos previos: </strong> <br>
+	    Nociones de diseño gráfico.
           </p>
         </div>
       </div>
 
       <div class="card-main-content">
-        <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+        <img class="img-main-card" src="img/tarjetas-conf/latex2.png" alt="">
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> MIERCOLES </strong></p>
-            <p> <strong> 1:00PM - 3:00 PM </strong></p>
+            <p> <strong> Jueves </strong></p>
+            <p> <strong> 1:00 PM - 3:00 PM </strong></p>
           </span>
           <h2>LaTeX Académico</h2>
-          <p> <strong> IMPARTE: </strong> <br> Víctor Vázquez <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
-          <p><strong> OBJETIVO: </strong> <br>
-	  Aplicar LaTeX para el desarrollo de productos académicos; en particular,
-	  tesis, libros y brevemente artículos. El participante obtendrá los conocimientos
+          <p> <strong> Imparte: </strong> <br> Víctor Vázquez <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p><strong> Objetivo: </strong> <br>
+	  Aplicar LaTeX para el desarrollo de productos académicos; en particular, 
+	  tesis, libros y brevemente artículos. El participante obtendrá los conocimientos 
 	  necesarios para el trabajo de archivos robustos mediante el paradigma modular,
-	  creación de funciones, comandos y uso web (Moodle), entre otros.
+	  creación de funciones, comandos y uso web (Moodle), entre otros. </b>
+	  <p> <strong> Conocimientos previos: </strong> <br>
+	  Dominio de LaTeX básico.
           </p>
         </div>
       </div>
 
       <div class="card-main-content">
-        <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+        <img class="img-main-card" src="img/tarjetas-conf/laravel.png" alt="">
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> MIERCOLES Y JUEVES </strong></p>
-            <p> <strong> 4:00PM a 6:00 PM </strong></p>
+            <p> <strong> Miércoles y jueves </strong></p>
+            <p> <strong> 4:00 PM a 6:00 PM </strong></p>
           </span>
           <h2>Laravel</h2>
-          <p> <strong> IMPARTE: </strong> <br> Lizbeth Luna, Francisco Castañeda  <br> <br> <strong> LUGAR: </strong> <br> SALA DE VIDEOCONFERENCIAS DE LA UNIDAD DE INVESTIGACIÓN MULTIDISCIPLINARIA </p>
-          <p><strong> OBJETIVO: </strong> <br>
+          <p> <strong> Imparte: </strong> <br> Lizbeth Luna, Francisco Castañeda  <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p><strong> Objetivo: </strong> <br>
             Que el asistente aprenda el uso del MVS Laravel y pueda
             realizar proyectos con dicho framework, realización de
-	    una API con CRUDs para el consumo del front-end.
-	Conocimientos previos: PHP básico, MySQL básico.
+	    una API con CRUDs para el consumo del front-end.</b>
+	  <p> <strong> Conocimientos previos: </strong> <br> 
+	  PHP básico y MySQL básico.
           </p>
         </div>
       </div>
