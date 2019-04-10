@@ -1,3 +1,4 @@
+
 *{
   box-sizing: border-box;
   margin: 0px;
@@ -13,9 +14,14 @@ body{
   background-color:#D4F0FC;
 }
 
+.bot-down:hover{
+  transform: scale(1.04);
+  -webkit-transform: scale(1.04);
+}
+
 /* ESTILOS SCROLL INICIO */
 ::-webkit-scrollbar {
-  width: 9px;
+  width: 7px;
 }
 
 /* Track */
@@ -27,10 +33,9 @@ body{
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: red;
   border-radius: 10px;
   background-color: #01303F;
-  border-right: 1.3px solid #D4F0FC;
+  border-right: 1.1px solid #D4F0FC;
 }
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
@@ -362,12 +367,20 @@ h1{
 }
 
 .card-main-content{
-
   width: 400px;
   height: 500px;
   display: flex;
   margin: 30px 20px;
+  box-shadow: 7px 7px 6px rgba(0,0,0,0.25);
+  border-radius: 15px;
 }
+
+.card-main-content:hover{
+  cursor: pointer;
+      transform: scale(1.04);
+      -webkit-transform: scale(1.04);
+      transition: .3s;
+    }
 .back-card{
   position: absolute;
   background-color: rgba(0, 0, 0, 0.73);
@@ -434,6 +447,12 @@ a{
   border-radius: 10px;
 }
 
+.bot-down:hover{
+  transform: scale(1.02);
+  -webkit-transform: scale(1.02);
+  transition: .2s;
+}
+
 /* BOT DOWN FIN */
 
 /* ESTILOS BANDAS DE TEGISTRO INICIO */
@@ -463,6 +482,13 @@ a{
   font-weight: bold;
   border: none;
   cursor: pointer;
+}
+
+.band-register a div:hover{
+  background-color: #02A9F7;
+
+  color: #fff;
+  transition: .3s;
 }
 
 
@@ -590,23 +616,14 @@ a{
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-  padding: 30px 80px;
-}
-.org-person{
-  padding: 30px 60px;
   text-align: center;
-
+  /* background-color: red; */
+  padding: 10px 30px;
 }
-
-.org-person img{
-  border-radius: 100%;
-  margin: 0px 5px;
-}
-
-.org-person p{
+.wrap-organizadores p{
   font-size: 24px;
-  font-family: 'Lato', sans-serif;
-  font-weight: normal;
+  margin: 30px 25px;
+  font-family: 'Lato',sans-serif;
   color: #01303F;
 }
 
@@ -616,23 +633,52 @@ a{
 
 /* ESTILOS DEL TEAM DEV INICIO */
 
-.prof-box{
-  background-color: #02A9F7;
-  position: absolute;
-  margin-top: -30px;
-width: 200px;
-  padding:5px 5px;
+.wrap-developers{
+  /* background-color: red; */
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-bottom: 40px;
 }
-.prof-box p{
- text-transform: uppercase;
- font-family: 'Share Tech', sans-serif;
-  color: #fff;
+.dev-person{
+  margin: 20px;
+  /* background-color: yellow; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: auto;
+  width: 220px;
+  padding: 10px;
 }
-.prof {
-  margin-top: 15px;
-  text-align: center;
+.dev-person:hover{
+  transform: scale(1.05);
+  -webkit-transform: scale(1.05);
+  transition: .3s;
+  cursor: pointer;
+}
+.dev-person img{
+  border-radius: 100%;
+  height: 180px;
 }
 
+.placa-name{
+  background-color: #02A9F7;
+  color: #fff;
+  font-family: 'Share Tech', sans-serif;
+  font-size: 24px;
+  text-transform: uppercase;
+  width: 200px;
+  padding: 5px;
+  position: absolute;
+  margin-top: 150px;
+}
+
+.profs{
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+  color: #01303F;
+  margin-top: 10px;
+}
 /* ESTILOS DEL TEAM DEV FIN */
 
 /* ESTILOS FOOTER INICIO */
@@ -680,6 +726,10 @@ footer{
 }
 .icons-bocs i{
   font-size: 60px;
+}
+.icons-bocs i:hover{
+  color: #02A9F7;
+  transition: .2s;
 }
 
 /* ESTILOS FOOTER FIN */
@@ -1112,9 +1162,9 @@ footer{
   }
 
   .que-es-flisol p{
-    font-size: 20px;
+    font-size: 17px;
     margin-top: 30px;
-    margin-bottom: 100px;
+    margin-bottom: 40px;
   }
 
   .navigation__button {

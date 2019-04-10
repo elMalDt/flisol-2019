@@ -7,7 +7,7 @@
 
     <link href="https://fonts.googleapis.com/css?family=Lato|Roboto|Share+Tech" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/estilo.css">
+    <link rel="stylesheet" href="css/estilosss.css">
     <script type="text/javascript" src="js/main.js">
 
     </script>
@@ -87,7 +87,7 @@
     <div class="card-cont">
 
         <div class="card-main-content">
-          <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+          <img class="img-main-card" src="img/tarjetas-conf/tuc.jpg" alt="">
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
@@ -181,7 +181,7 @@
         </div>
 
         <div class="card-main-content">
-          <img class="img-main-card" src="img/debiann.jpg" alt="">
+          <img class="img-main-card" src="img/tarjetas-conf/debiann.jpg" alt="">
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
@@ -700,8 +700,6 @@
         </div>
       </div>
 
-
-
       <div class="tab">
         <input id="tab-six" type="checkbox" name="tabs">
         <label for="tab-six">Adobe Premiere / KDEnlive</label>
@@ -740,9 +738,10 @@
   </div>
 </div>
 
-     <!-- <h1 id="organizadores" class="org-tit">organizadores</h1> -->
+      <h1 id="organizadores" class="org-tit" style="margin-top: 430px;">organizadores</h1>
 
 <!-- INTRODUZCA CODIGO ORGANIZADORES INICIO -->
+<<<<<<< HEAD
 <!-- <div class="wrap-organizadores">
 
   <div class="org-person">
@@ -785,31 +784,43 @@
     <p>Nombre #n</p>
   </div>
 
-</div> -->
+</div> 
+<div class="wrap-organizadores">
+  <p>nombre#1</p>
+  <p>nombre#2</p>
+  <p>nombre#3</p>
+  <p>nombre#4</p>
+  <p>nombre#5</p>
+  <p>nombre#6</p>
+  <p>nombre#7</p>
+  <p>nombre#8</p>
+</div>
 
+<h1 id="desarrolladores" style="margin-top:80px;">Desarrolladores CIDWA</h1>
 
-<h1 id="desarrolladores" style="margin-top:30px;">Desarrolladores CIDWA</h1>
-  <div class="wrap-organizadores">
-    <div class="org-person">
-      <!-- <img src="img/organiz-ejemp/29.jpg" alt=""> -->
-      <div class="prof-box">
+  <div class="wrap-developers">
+    <div class="dev-person">
+      <img src="img/equipo-des-ejemp/1.jpg" alt="">
+      <div class="placa-name">
         <p>Arturo Guerrero</p>
       </div>
-      <p class="prof">Project Manager</p>
+      <p class="profs">Project Manager</p>
     </div>
-    <div class="org-person">
-      <!-- <img src="img/organiz-ejemp/29.jpg" alt=""> -->
-      <div class="prof-box">
+
+    <div class="dev-person">
+      <img src="img/equipo-des-ejemp/1.jpg" alt="">
+      <div class="placa-name">
         <p>Enrique Maya</p>
       </div>
-      <p class="prof">Desarrollador Web</p>
+      <p class="profs">Desarrollador Web</p>
     </div>
-    <div class="org-person">
-      <!-- <img src="img/organiz-ejemp/29.jpg" alt=""> -->
-      <div class="prof-box">
+
+    <div class="dev-person">
+      <img src="img/equipo-des-ejemp/1.jpg" alt="">
+      <div class="placa-name">
         <p>Hugo Enriquez</p>
       </div>
-      <p class="prof">Desarrollador Web</p>
+      <p class="profs">Desarrollador Web</p>
     </div>
   </div>
 
