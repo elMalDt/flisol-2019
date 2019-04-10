@@ -185,6 +185,7 @@ animation: moveInRight 0.6s ease-in;
   list-style: none;
   text-align: center;
   width: 100%;
+  /* display: none; */
 }
 
 .navigation__item {
@@ -1266,7 +1267,7 @@ footer{
     border-radius: 15px;
   } */
 body{
-  width: 134%;
+  width: 136%;
 }
 }
 
