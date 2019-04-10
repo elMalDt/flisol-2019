@@ -1,3 +1,4 @@
+
 *{
   box-sizing: border-box;
   margin: 0px;
@@ -11,6 +12,11 @@ html{
 
 body{
   background-color:#D4F0FC;
+}
+
+.bot-down:hover{
+  transform: scale(1.04);
+  -webkit-transform: scale(1.04);
 }
 
 /* ESTILOS SCROLL INICIO */
@@ -362,12 +368,20 @@ h1{
 }
 
 .card-main-content{
-
   width: 400px;
   height: 500px;
   display: flex;
   margin: 30px 20px;
+  box-shadow: 7px 7px 6px rgba(0,0,0,0.25);
+  border-radius: 15px;
 }
+
+.card-main-content:hover{
+  cursor: pointer;
+      transform: scale(1.04);
+      -webkit-transform: scale(1.04);
+      transition: .3s;
+    }
 .back-card{
   position: absolute;
   background-color: rgba(0, 0, 0, 0.73);
@@ -434,6 +448,12 @@ a{
   border-radius: 10px;
 }
 
+.bot-down:hover{
+  transform: scale(1.02);
+  -webkit-transform: scale(1.02);
+  transition: .2s;
+}
+
 /* BOT DOWN FIN */
 
 /* ESTILOS BANDAS DE TEGISTRO INICIO */
@@ -463,6 +483,13 @@ a{
   font-weight: bold;
   border: none;
   cursor: pointer;
+}
+
+.band-register a div:hover{
+  background-color: #02A9F7;
+
+  color: #fff;
+  transition: .3s;
 }
 
 
@@ -1112,9 +1139,9 @@ footer{
   }
 
   .que-es-flisol p{
-    font-size: 20px;
+    font-size: 17px;
     margin-top: 30px;
-    margin-bottom: 100px;
+    margin-bottom: 40px;
   }
 
   .navigation__button {
