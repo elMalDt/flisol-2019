@@ -157,7 +157,7 @@ animation: moveInRight 0.6s ease-in;
   position: fixed;
   top: 9rem;
   right: 11rem;
-  background-color: #02A9F7;
+  background-color: #01303F;
   z-index: 1000;
   transition: transform 0.8s cubic-bezier(0.86, 0, 0.07, 1); }
 

@@ -31,11 +31,11 @@
           <ul class="navigation__list">
               <!-- <li class="navigation__item"><a href="#" class="navigation__link"><i class="far fa-user-circle circ"></i></a></li> -->
               <li class="navigation__item"><a href="index.php" class="navigation__link">Inicio</a></li>
-              <li class="navigation__item"><a href="#que-es" class="navigation__link">¿què es flisol?</a></li>
+              <li class="navigation__item"><a href="#que-es" class="navigation__link">¿qué es flisol?</a></li>
               <li class="navigation__item"><a href="#conferencias" class="navigation__link">conferencias</a></li>
               <li class="navigation__item"><a href="#talleres" class="navigation__link">talleres</a></li>
-              <li class="navigation__item"><a href="#apps" class="navigation__link">apps</a></li>
-              <li class="navigation__item"><a href="#organizadores" class="navigation__link">organizadores</a></li>
+              <li class="navigation__item"><a href="#installfest" class="navigation__link">installfest</a></li>
+              <li class="navigation__item"><a href="#apps" class="navigation__link">Software</a></li>
               <li class="navigation__item"><a href="#desarrolladores" class="navigation__link">desarrolladores</a></li>
               <!-- <li class="navigation__item"><a href="register.php" class="navigation__link">inicar sesiòn</a></li> -->
 
@@ -130,7 +130,7 @@
           <div class="main-card-section">
             <span>
               <p> <strong> Miércoles </strong></p>
-              <p> <strong> 12:00 PM - 13:00 PM </strong></p>
+              <p> <strong> 12:00 PM - 1:00 PM </strong></p>
             </span>
             <h2>Rho-Pi: Bot de Telegram para controlar una RaspberryPi</h2>
             <p> <strong> Ponente: </strong> <br>Rodrigo García <br> <br> <strong> Lugar: </strong> <br> Sala de videoconferencias de la Unidad de Investigación Multidisciplinaria </p>
@@ -148,7 +148,7 @@
           <div class="main-card-section">
             <span>
               <p> <strong> Miércoles </strong></p>
-              <p> <strong> 13:00 PM - 14:00 PM </strong></p>
+              <p> <strong> 1:00 PM - 2:00 PM </strong></p>
             </span>
             <h2>Fedora containers</h2>
             <p> <strong> Ponente: </strong> <br>Alex Callejas<br> <br> <strong> Lugar: </strong> <br> Sala de videoconferencias de la Unidad de Investigación Multidisciplinaria </p>
@@ -166,7 +166,7 @@
           <div class="main-card-section">
             <span>
               <p> <strong> Miércoles </strong></p>
-              <p> <strong> 15:00 PM - 16:00 PM </strong></p>
+              <p> <strong> 3:00 PM - 4:00 PM </strong></p>
             </span>
             <h2>Creación de aplicaciones web utilizando software libre como base</h2>
             <p> <strong> Ponente: </strong> <br>Sergio Ramos <br> <br> <strong> Lugar: </strong> <br> Sala de videoconferencias de la Unidad de Investigación Multidisciplinaria </p>
@@ -186,7 +186,7 @@
           <div class="main-card-section">
             <span>
               <p> <strong> Miércoles </strong></p>
-              <p> <strong> 16:00 PM - 17:00 PM </strong></p>
+              <p> <strong> 4:00 PM - 5:00 PM </strong></p>
             </span>
             <h2>Debian y su misión con el software libre</h2>
             <p> <strong> Ponente: </strong> <br>Diego Hernández<br> <br> <strong> Lugar: </strong> <br> Sala de videoconferencias de la Unidad de Investigación Multidisciplinaria </p>
@@ -205,8 +205,8 @@
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
-              <p> <strong> JUEVES </strong></p>
-              <p> <strong> 16:00 PM a 18:00 PM </strong></p>
+              <p> <strong> Jueves </strong></p>
+              <p> <strong> 4:00 PM a 6:00 PM </strong></p>
             </span>
             <h2 style="font-size: 20px;">Informática forense con software libre: demostración de hallazgos/evidencia digital aplicable a una investigación criminal</h2>
             <p> <strong> PonenteS: </strong> <br>Alejandra Morán, Erick Tonchi<br> <br> <strong> Lugar: </strong> <br> Sala de usos múltiples del Centro de Desarrollo Tecnológico</p>
@@ -229,7 +229,7 @@
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
-              <p> <strong> VIERNES </strong></p>
+              <p> <strong> Viernes </strong></p>
               <p> <strong> 10:00 AM - 11:00 AM </strong></p>
             </span>
             <h2>Linux contra la basura electrónica</h2>
@@ -265,11 +265,31 @@
   <div class="card-cont">
 
       <div class="card-main-content">
+        <img class="img-main-card" src="img/tarjetas-conf/laravel.png" alt="">
+        <div class="back-card"></div>
+        <div class="main-card-section">
+          <span>
+            <p> <strong> Miércoles y jueves </strong></p>
+            <p> <strong> 4:00 PM a 6:00 PM </strong></p>
+          </span>
+          <h2>Laravel</h2>
+          <p> <strong> Imparte: </strong> <br> Lizbeth Luna, Francisco Castañeda  <br> <br> <strong> Lugar: </strong> <br> Sala Linux </p>
+          <p><strong> Objetivo: </strong> <br>
+            Que el asistente aprenda el uso del MVS Laravel y pueda
+            realizar proyectos con dicho framework, realización de
+	    una API con CRUDs para el consumo del front-end.</b>
+	  <p> <strong> Conocimientos previos: </strong> <br>
+	  PHP básico y MySQL básico.
+          </p>
+        </div>
+      </div>
+
+      <div class="card-main-content">
         <img class="img-main-card" src="img/tarjetas-conf/bash.jpg" alt="">
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> Miércoles </strong></p>
+            <p> <strong> Jueves </strong></p>
             <p> <strong> 9:00 AM - 11:00 AM </strong></p>
           </span>
           <h2>Introducción a BASH scripting</h2>
@@ -290,11 +310,11 @@
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> Miércoles </strong></p>
+            <p> <strong> Jueves </strong></p>
             <p> <strong> 11:00 AM - 1:00 PM </strong></p>
           </span>
           <h2>Introducción a la privacidad y anonimato en Tails</h2>
-          <p> <strong> Imparte: </strong> <br> Carlos Martínez <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p> <strong> Imparte: </strong> <br> carlosm2 <br> <br> <strong> Lugar: </strong> <br> Sala 2 </p>
           <p><strong> Objetivo: </strong> <br>
 	  Aprender a usar el sistema operativo vivo Tails para ayudarnos a
 	  mejorar nuestra privacidad y anonimato.
@@ -311,10 +331,10 @@
         <div class="main-card-section">
           <span>
             <p> <strong> Jueves </strong></p>
-            <p> <strong> 11:00AM - 1:00 PM </strong></p>
+            <p> <strong> 11:00 AM - 1:00 PM </strong></p>
           </span>
           <h2>Introducción a JULIA con enfoque práctico</h2>
-          <p> <strong> Imparte: </strong> <br> Melissa Ponce <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p> <strong> Imparte: </strong> <br> Melissa Ponce <br> <br> <strong> Lugar: </strong> <br> Sala 1 </p>
           <p><strong> Objetivo: </strong> <br>
             Que los asistentes puedan conocer las principales
             herramientas del lenguaje de programación JULIA de tal
@@ -334,10 +354,10 @@
         <div class="main-card-section">
           <span>
             <p> <strong> Jueves </strong></p>
-            <p> <strong> 11:00AM - 1:00 PM </strong></p>
+            <p> <strong> 11:00 AM - 1:00 PM </strong></p>
           </span>
           <h2>R no estadístico</h2>
-          <p> <strong> Imparte: </strong> <br> Oscar Caballero <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p> <strong> Imparte: </strong> <br> Oscar Caballero <br> <br> <strong> Lugar: </strong> <br> Sala Linux </p>
           <p><strong> Objetivo: </strong> <br>
             El asistente aprenderá a manejar el paquete R,
             para hacer operaciones con matrices, vectores,
@@ -355,10 +375,10 @@
         <div class="main-card-section">
           <span>
             <p> <strong> Jueves </strong></p>
-            <p> <strong> 11:00AM - 1:00 PM </strong></p>
+            <p> <strong> 11:00 AM - 1:00 PM </strong></p>
           </span>
           <h2>Web Scraping</h2>
-          <p> <strong> Imparte: </strong> <br> Raúl González <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p> <strong> Imparte: </strong> <br> Raúl González <br> <br> <strong> Lugar: </strong> <br> Sala 5 </p>
           <p><strong> Objetivo: </strong> <br>
             Que el asistente aprenda web scraping, la cual es una
             técnica para extraer información de sitios web mediante
@@ -378,7 +398,7 @@
             <p> <strong> 1:00 PM - 3:00 PM </strong></p>
           </span>
           <h2>Análisis de datos espaciales con GEODA</h2>
-          <p> <strong> Imparte: </strong> <br> Diego Galván <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p> <strong> Imparte: </strong> <br> Diego Galván <br> <br> <strong> Lugar: </strong> <br> Sala 2 </p>
           <p><strong> Objetivo: </strong> <br>
             Dar una introducción a los conceptos básicos de
             la estadística espacial y al software de GEODA para
@@ -394,11 +414,11 @@
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> Miércoles </strong></p>
+            <p> <strong> Jueves </strong></p>
             <p> <strong> 1:00 PM - 3:00 PM </strong></p>
           </span>
           <h2>Taller básico de LaTeX</h2>
-          <p> <strong> Imparte: </strong> <br> Víctor Vázquez <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p> <strong> Imparte: </strong> <br> Víctor Vázquez <br> <br> <strong> Lugar: </strong> <br> Sala 5 </p>
           <p><strong> Objetivo: </strong> <br>
             Los participantes adquirirán la habilidad de hacer
             documentos científicos de alta calidad tipográfica
@@ -418,7 +438,7 @@
             <p> <strong> 1:00 PM - 3:00 PM </strong></p>
           </span>
           <h2>Taller básico de Blender</h2>
-          <p> <strong> Imparte: </strong> <br> Akzayakatl Colín y Eduardo Baliñas <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p> <strong> Imparte: </strong> <br> Akzayakatl Colín y Eduardo Baliñas <br> <br> <strong> Lugar: </strong> <br> Sala 1 </p>
           <p><strong> Objetivo: </strong> <br>
             Que los asistentes aprendan los conceptos
             básicos de modelado 3D y termine con un
@@ -438,7 +458,7 @@
             <p> <strong> 1:00 PM - 3:00 PM </strong></p>
           </span>
           <h2>Introducción a Emacs</h2>
-          <p> <strong> Imparte: </strong> <br> Diego Martínez <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p> <strong> Imparte: </strong> <br> Diego Martínez <br> <br> <strong> Lugar: </strong> <br> Sala Linux </p>
           <p><strong> Objetivo: </strong> <br>
             Mostrarle a la comunidad la existencia, el uso y
             los beneficios de un editor de textos libre como Emacs,
@@ -460,7 +480,7 @@
             <p> <strong> 4:00 PM – 6:00 PM </strong></p>
           </span>
           <h2>Diseñando un flyer con Inkscape</h2>
-          <p> <strong> Imparte: </strong> <br> Susana Valdivé <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p> <strong> Imparte: </strong> <br> Susana Valdivé <br> <br> <strong> Lugar: </strong> <br> Sala 1 </p>
           <p><strong> Objetivo: </strong> <br>
             Aprender a diseñar un flyer con herramientas
             libres y comparando Inkscape contra otro programa
@@ -477,10 +497,10 @@
         <div class="main-card-section">
           <span>
             <p> <strong> Jueves </strong></p>
-            <p> <strong> 1:00 PM - 3:00 PM </strong></p>
+            <p> <strong> 4:00 PM - 6:00 PM </strong></p>
           </span>
           <h2>LaTeX Académico</h2>
-          <p> <strong> Imparte: </strong> <br> Víctor Vázquez <br> <br> <strong> Lugar: </strong> <br> Sala </p>
+          <p> <strong> Imparte: </strong> <br> Víctor Vázquez <br> <br> <strong> Lugar: </strong> <br> Sala 5 </p>
           <p><strong> Objetivo: </strong> <br>
 	  Aplicar LaTeX para el desarrollo de productos académicos; en particular,
 	  tesis, libros y brevemente artículos. El participante obtendrá los conocimientos
@@ -491,31 +511,11 @@
           </p>
         </div>
       </div>
-
-      <div class="card-main-content">
-        <img class="img-main-card" src="img/tarjetas-conf/laravel.png" alt="">
-        <div class="back-card"></div>
-        <div class="main-card-section">
-          <span>
-            <p> <strong> Miércoles y jueves </strong></p>
-            <p> <strong> 4:00 PM a 6:00 PM </strong></p>
-          </span>
-          <h2>Laravel</h2>
-          <p> <strong> Imparte: </strong> <br> Lizbeth Luna, Francisco Castañeda  <br> <br> <strong> Lugar: </strong> <br> Sala </p>
-          <p><strong> Objetivo: </strong> <br>
-            Que el asistente aprenda el uso del MVS Laravel y pueda
-            realizar proyectos con dicho framework, realización de
-	    una API con CRUDs para el consumo del front-end.</b>
-	  <p> <strong> Conocimientos previos: </strong> <br>
-	  PHP básico y MySQL básico.
-          </p>
-        </div>
-      </div>
 </div>
 
 <a href="./pdf/talleres.pdf" download>
   <div class="bot-down">
-    Descargar PDF de los talleres.
+    Descargar PDF de los talleres
   </div>
 </a>
 
@@ -527,6 +527,30 @@
 </a>
 </div>
 
+<span id="installfest" class="que-es-flisol">
+  <h1 id="fest"> Festival de instalación </h1>
+  <p>
+  En esta actividad te podemos ayudar a instalar software libre en tu equipo,
+  de manera gratuita y totalmente legal. Consulta más abajo la lista 
+  de software disponible a instalar. <br>
+  Si te interesa instalar un sistema operativo libre
+  junto con algún otro sistema te
+  recomendamos
+  <a href="https://www.xataka.com/basics/desfragmentar-el-disco-duro-como-se-hace-y-para-que-sirve">
+	  desfragmentar
+  </a>
+  el disco duro de tu equipo,
+  así como realizar un respaldo de tu información. <br> 
+  Te esperamos en la explanada del CeDeTec de 11:00 AM a 3:00 PM.
+  </p>
+<a href="./pdf/listaSoftware.pdf" download>
+  <div class="bot-down">
+    Descargar PDF de la lista de software
+  </div>
+</a>
+</span>
+
+
 
   <!-- colocar cards para talleres INICIO -->
   <!-- colocar cards para talleres FIN -->
@@ -537,7 +561,7 @@
   <div class="half">
     <div class="tab">
       <input id="tab-one" type="checkbox" name="tabs">
-      <label for="tab-one">Windows vs Linux</label>
+      <label for="tab-one">Windows / GNU/Linux</label>
       <div class="tab-content">
         <div class="">
           <img src="img/iconos-com/windows.png" alt="">
@@ -572,7 +596,7 @@
     </div>
       <div class="tab">
         <input id="tab-two" type="checkbox" name="tabs">
-        <label for="tab-two">MsOffice vs LibreOffice</label>
+        <label for="tab-two">MsOffice / LibreOffice</label>
         <div class="tab-content">
           <div class="">
             <img src="img/iconos-com/msoffice.png" alt="">
@@ -581,7 +605,7 @@
                 La mayoría de las empresas lo utilizan.
               </li>
               <li>
-                Es un software muy completo al realizar diversas tareas.
+                Es software completo al realizar diversas tareas.
               </li>
               <li>
                 Microsoft ofrece asistencia en linea para sus productos Office.
@@ -592,10 +616,10 @@
             <img src="img/iconos-com/Libreoffice.png" alt="">
             <ul style="display: inline-block;">
               <li>
-                Ciclo regular de solo dos actualizaciones anuales
+		Programación de macros mediante lenguajes como Python.
               </li>
               <li>
-                LibreOffice funciona en cualquier distribución de Linux, en Windows y Mac.
+                Multiplataforma, funciona en GNU/Linux, Windows y Mac.
               </li>
               <li>
                 LibreOffice se distribuye de manera gratuita.
@@ -606,7 +630,7 @@
       </div>
       <div class="tab">
         <input id="tab-three" type="checkbox" name="tabs">
-        <label for="tab-three">Photoshop vs Gimp</label>
+        <label for="tab-three">Photoshop / Gimp</label>
         <div class="tab-content">
           <div class="">
             <img src="img/iconos-com/ps.png" alt="">
@@ -626,10 +650,10 @@
             <img src="img/iconos-com/gimp.png" alt="">
             <ul style="display: inline-block;">
               <li>
-              Gimp y sus Plugin se pueden obtener Gratis.
+              Gimp y sus Plugin se pueden obtener Gratis, no requiere pago de mensualidades.
               </li>
               <li>
-                Esta disponible para múltiples plataformas y Sistemas Operativos.
+                Esta disponible para múltiples sistemas operativos.
               </li>
               <li>
                 Ocupa muy poco espacio en nuestro disco duro.
@@ -641,19 +665,19 @@
 
       <div class="tab">
         <input id="tab-four" type="checkbox" name="tabs">
-        <label for="tab-four">Play Store vs F-Droid</label>
+        <label for="tab-four">Play Store / F-Droid</label>
         <div class="tab-content">
           <div class="">
             <img src="img/iconos-com/playstore.png" alt="">
             <ul style="display: inline-block;">
               <li>
-                la gran mayoría de las apps son gratuitas.
+                La mayoría de las aplicaciones son gratuitas.
               </li>
               <li>
-                La descarga de apps es totalmente segura.
+                La descarga de aplicaciones es segura, en ocasiones las aplicaciones no lo son.
               </li>
               <li>
-                 apps clasificadas por categorías de forma muy ordenada y <br>
+                 Software clasificado por categorías de forma muy ordenada y <br>
                 además puedes usar el buscador mediante palabras clave
               </li>
             </ul>
@@ -662,13 +686,14 @@
             <img src="img/iconos-com/fdroid.png" alt="">
             <ul style="display: inline-block;">
               <li>
-                Es una alternativa a la Play Store.
+                No obliga al usuario a crear una cuenta para descargar software.
               </li>
               <li>
-                Apps con mayor privacidad y transparencia.
+                Aplicaciones brindan  mayor libertad, privacidad y transparencia al usuario.
               </li>
               <li>
-                Se pueden compartir apps por Bluetooth y sin conexion a <br>  internet.
+		 Se pueden compartir aplicaciones por Bluetooth, sin necesidad<br>
+		 de una conexion a internet.
               </li>
             </ul>
           </div>
@@ -679,16 +704,16 @@
 
       <div class="tab">
         <input id="tab-six" type="checkbox" name="tabs">
-        <label for="tab-six">Adobe Premiere vs KDEnlive</label>
+        <label for="tab-six">Adobe Premiere / KDEnlive</label>
         <div class="tab-content">
           <div class="">
             <img src="img/iconos-com/pr.png" alt="">
             <ul style="display: inline-block;">
               <li>
-                nos va a dejar importar todo tipo de formatos: jpg, gif, psd, mp3, mp4, etc.
+                Permite importar todo tipo de formatos: jpg, gif, psd, mp3, mp4, etc.
               </li>
               <li>
-                podemos importar secuencias de Adobe After Effects o la <br> sucesión de imágenes  <br> creadas por 3D Studio Max.
+		Software popular.
               </li>
               <li>
                 Compatible con Mac y Windows.
@@ -699,10 +724,10 @@
             <img src="img/iconos-com/enlive.png" alt="">
             <ul style="display: inline-block;">
               <li>
-                ¡Es Gratis!, hermano.
+                Gratuito y multiplataforma.
               </li>
               <li>
-                es capaz de manipular cualquier formato y hace que no <br>
+                Es capaz de manipular cualquier formato y hace que no <br>
                 sea obligatorio convertir los videos antes de editarlos.
               </li>
               <li>
@@ -760,7 +785,7 @@
     <p>Nombre #n</p>
   </div>
 
-</div> --> -->
+</div> -->
 
 
 <h1 id="desarrolladores" style="margin-top:30px;">Desarrolladores CIDWA</h1>
@@ -796,20 +821,21 @@
 
 <footer>
   <p class="foo-cid">
-    Pagina hecha con &#x1F496; por CIDWA
-    para  la FES Acatlàn
+    <!-- Pagina hecha con &#x1F496; por CIDWA -->
+    Pagina hecha con <3 por CIDWA <br>
+    para la FES Acatlàn
   </p>
 
   <div class="back-itemss">
     <div class="follow-us">
       <div class="contain-follow">
-        <p>siguenos en:</p>
+        <p>Síguenos en:</p>
       </div>
       <div class="icons-bocs">
         <a href="https://www.facebook.com/fes.acatlan/" style="text-decoration: none; color: #fff;">
           <i class="fab fa-facebook-square"></i>
         </a>
-        <a href="https://www.instagram.com/fes_acatlan/?hl=en" style="text-decoration: none; color: #fff;">
+        <a href="https://www.instagram.com/fes_acatlan/" style="text-decoration: none; color: #fff;">
           <i class="fab fa-instagram"></i>
         </a>
       </div>
