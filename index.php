@@ -87,7 +87,7 @@
     <div class="card-cont">
 
         <div class="card-main-content">
-          <img class="img-main-card" src="img/tarjetas-conf/tux.jpg" alt="">
+          <img class="img-main-card" src="img/tarjetas-conf/tuc.jpg" alt="">
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
@@ -181,7 +181,7 @@
         </div>
 
         <div class="card-main-content">
-          <img class="img-main-card" src="img/debiann.jpg" alt="">
+          <img class="img-main-card" src="img/tarjetas-conf/debiann.jpg" alt="">
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>

@@ -21,7 +21,7 @@ body{
 
 /* ESTILOS SCROLL INICIO */
 ::-webkit-scrollbar {
-  width: 9px;
+  width: 7px;
 }
 
 /* Track */
@@ -33,10 +33,9 @@ body{
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: red;
   border-radius: 10px;
   background-color: #01303F;
-  border-right: 1.3px solid #D4F0FC;
+  border-right: 1.1px solid #D4F0FC;
 }
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
@@ -727,6 +726,10 @@ footer{
 }
 .icons-bocs i{
   font-size: 60px;
+}
+.icons-bocs i:hover{
+  color: #02A9F7;
+  transition: .2s;
 }
 
 /* ESTILOS FOOTER FIN */
