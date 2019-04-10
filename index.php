@@ -713,76 +713,45 @@
   </div>
 </div>
 
-     <!-- <h1 id="organizadores" class="org-tit">organizadores</h1> -->
+      <h1 id="organizadores" class="org-tit" style="margin-top: 430px;">organizadores</h1>
 
 <!-- INTRODUZCA CODIGO ORGANIZADORES INICIO -->
-<!-- <div class="wrap-organizadores">
+<div class="wrap-organizadores">
+  <p>nombre#1</p>
+  <p>nombre#2</p>
+  <p>nombre#3</p>
+  <p>nombre#4</p>
+  <p>nombre#5</p>
+  <p>nombre#6</p>
+  <p>nombre#7</p>
+  <p>nombre#8</p>
+</div>
 
-  <div class="org-person">
-    <img src="img/organiz-ejemp/0.jpg" alt="">
-    <p>Nombre #n</p>
-  </div>
+<h1 id="desarrolladores" style="margin-top:80px;">Desarrolladores CIDWA</h1>
 
-  <div class="org-person">
-    <img src="img/organiz-ejemp/26.jpg" alt="">
-    <p>Nombre #n</p>
-  </div>
-
-  <div class="org-person">
-    <img src="img/organiz-ejemp/29.jpg" alt="">
-    <p>Nombre #n</p>
-  </div>
-
-  <div class="org-person">
-    <img src="img/organiz-ejemp/29.jpg" alt="">
-    <p>Nombre #n</p>
-  </div>
-
-  <div class="org-person">
-    <img src="img/organiz-ejemp/0.jpg" alt="">
-    <p>Nombre #n</p>
-  </div>
-
-  <div class="org-person">
-    <img src="img/organiz-ejemp/26.jpg" alt="">
-    <p>Nombre #n</p>
-  </div>
-
-  <div class="org-person">
-    <img src="img/organiz-ejemp/29.jpg" alt="">
-    <p>Nombre #n</p>
-  </div>
-
-  <div class="org-person">
-    <img src="img/organiz-ejemp/29.jpg" alt="">
-    <p>Nombre #n</p>
-  </div>
-
-</div> --> -->
-
-
-<h1 id="desarrolladores" style="margin-top:30px;">Desarrolladores CIDWA</h1>
-  <div class="wrap-organizadores">
-    <div class="org-person">
-      <!-- <img src="img/organiz-ejemp/29.jpg" alt=""> -->
-      <div class="prof-box">
+  <div class="wrap-developers">
+    <div class="dev-person">
+      <img src="img/equipo-des-ejemp/1.jpg" alt="">
+      <div class="placa-name">
         <p>Arturo Guerrero</p>
       </div>
-      <p class="prof">Project Manager</p>
+      <p class="profs">Project Manager</p>
     </div>
-    <div class="org-person">
-      <!-- <img src="img/organiz-ejemp/29.jpg" alt=""> -->
-      <div class="prof-box">
-        <p>Enrique Maya</p>
+
+    <div class="dev-person">
+      <img src="img/equipo-des-ejemp/1.jpg" alt="">
+      <div class="placa-name">
+        <p>Enrique maya</p>
       </div>
-      <p class="prof">Desarrollador Web</p>
+      <p class="profs">Desarrollador Web</p>
     </div>
-    <div class="org-person">
-      <!-- <img src="img/organiz-ejemp/29.jpg" alt=""> -->
-      <div class="prof-box">
-        <p>Hugo Enriquez</p>
+
+    <div class="dev-person">
+      <img src="img/equipo-des-ejemp/1.jpg" alt="">
+      <div class="placa-name">
+        <p>hugo enriquez</p>
       </div>
-      <p class="prof">Desarrollador Web</p>
+      <p class="profs">Desarrollador Web</p>
     </div>
   </div>
 
