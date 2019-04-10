@@ -88,7 +88,7 @@
     <div class="card-cont">
 
         <div class="card-main-content">
-          <img class="img-main-card" src="img/tarjetas-conf/tuc.jpg" alt="">
+          <img class="img-main-card" src="img/tarjetas-conf/tux.png" alt="">
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
@@ -651,13 +651,13 @@
             <img src="img/iconos-com/gimp.png" alt="">
             <ul style="display: inline-block;">
               <li>
-              Gimp y sus Plugin se pueden obtener Gratis, no requiere pago de mensualidades.
+              Gimp se puede obtener de manera gratuita, no requiere pago de mensualidades.
               </li>
               <li>
                 Esta disponible para múltiples sistemas operativos.
               </li>
               <li>
-                Ocupa muy poco espacio en nuestro disco duro.
+                Ocupa muy poco espacio en el disco duro.
               </li>
             </ul>
           </div>
@@ -678,8 +678,7 @@
                 La descarga de aplicaciones es segura, en ocasiones las aplicaciones no lo son.
               </li>
               <li>
-                 Software clasificado por categorías de forma muy ordenada y <br>
-                además puedes usar el buscador mediante palabras clave
+		Viene instalado por defecto en la mayoría de dispositivos.
               </li>
             </ul>
           </div>
@@ -690,7 +689,7 @@
                 No obliga al usuario a crear una cuenta para descargar software.
               </li>
               <li>
-                Aplicaciones brindan  mayor libertad, privacidad y transparencia al usuario.
+                Las aplicaciones brindan mayor libertad, privacidad y transparencia al usuario.
               </li>
               <li>
 		 Se pueden compartir aplicaciones por Bluetooth, sin necesidad<br>
