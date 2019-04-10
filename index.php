@@ -47,12 +47,13 @@
     <header class="header">
       <div class="back-black"></div>
       <div class="logo-box">
-        <a href="index.php"> <img src="img/flisol.png" alt="Logo" class="logo"> </a>
+        <a href="https://www.acatlan.unam.mx/"> <img src="img/logo-acatlan.png" alt="Logo" class="logo"> </a>
       </div>
 
       <div class="text-box">
         <h1 class="heading-primary">
           <div class="content">
+		  <!-- <a href="https://flisol.info/"> <img src="img/flisol.png" alt="Logo" class="logo"> </a> -->
              <div class="random">
                   <span class="nbr ltr">0</span>
                   <span class="nbr ltr">0</span>
@@ -630,7 +631,7 @@
       </div>
       <div class="tab">
         <input id="tab-three" type="checkbox" name="tabs">
-        <label for="tab-three">Photoshop / Gimp</label>
+        <label for="tab-three">Photoshop / GIMP</label>
         <div class="tab-content">
           <div class="">
             <img src="img/iconos-com/ps.png" alt="">
@@ -702,7 +703,7 @@
 
       <div class="tab">
         <input id="tab-six" type="checkbox" name="tabs">
-        <label for="tab-six">Adobe Premiere / KDEnlive</label>
+        <label for="tab-six">Adobe Premiere / Kdenlive</label>
         <div class="tab-content">
           <div class="">
             <img src="img/iconos-com/pr.png" alt="">
@@ -738,10 +739,9 @@
   </div>
 </div>
 
-      <h1 id="organizadores" class="org-tit" style="margin-top: 430px;">organizadores</h1>
+<h1 id="organizadores" class="org-tit" style="margin-top: 430px;">organizadores</h1>
 
 <!-- INTRODUZCA CODIGO ORGANIZADORES INICIO -->
-<<<<<<< HEAD
 <!-- <div class="wrap-organizadores">
 
   <div class="org-person">
