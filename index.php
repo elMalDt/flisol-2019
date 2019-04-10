@@ -245,7 +245,7 @@
 
   </div>
 
-  <a href="#" download>
+  <a href="./pdf/conferencias.pdf" download>
     <div class="bot-down">
       Descargar PDF de las conferencias.
     </div>
@@ -513,7 +513,7 @@
       </div>
 </div>
 
-<a href="#" download>
+<a href="./pdf/talleres.pdf" download>
   <div class="bot-down">
     Descargar PDF de los talleres.
   </div>
