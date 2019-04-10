@@ -5,10 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-
+    <link href="https://fonts.googleapis.com/css?family=Lato|Roboto|Share+Tech" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/estiloss.css">
+    <link rel="stylesheet" href="css/estilo.css">
     <script type="text/javascript" src="js/main.js">
 
     </script>
@@ -38,7 +37,7 @@
               <li class="navigation__item"><a href="#apps" class="navigation__link">apps</a></li>
               <li class="navigation__item"><a href="#organizadores" class="navigation__link">organizadores</a></li>
               <li class="navigation__item"><a href="#desarrolladores" class="navigation__link">desarrolladores</a></li>
-              <li class="navigation__item"><a href="register.php" class="navigation__link">inicar sesiòn</a></li>
+              <!-- <li class="navigation__item"><a href="register.php" class="navigation__link">inicar sesiòn</a></li> -->
 
               </ul>
       </nav>
@@ -70,7 +69,7 @@
           </div>
         </h1>
 
-        <a href="#" class="bot bot-white bot-animated">¡Regístrate!</a>
+        <a href="#" class="bot bot-white bot-animated" onclick="saludos();">¡Regístrate Gratis!</a>
       </div>
     </header>
 
@@ -246,9 +245,15 @@
 
   </div>
 
+  <a href="#" download>
+    <div class="bot-down">
+      Descargar PDF de las conferencias.
+    </div>
+  </a>
+
 
   <div class="band-register">
-    <a href="register.php">
+    <a href="#" onclick="saludos();">
     <div class="">
         ¡Regístrate Gratis!
     </div>
@@ -293,7 +298,7 @@
           <p><strong> Objetivo: </strong> <br>
 	  Aprender a usar el sistema operativo vivo Tails para ayudarnos a
 	  mejorar nuestra privacidad y anonimato.
-	  <p> <strong> Conocimientos previos: </strong> <br> 
+	  <p> <strong> Conocimientos previos: </strong> <br>
 	  Alguna experiencia con GNU/Linux, traer USB de al menos 8GB vacia o nueva.
           </p>
           </p>
@@ -477,8 +482,8 @@
           <h2>LaTeX Académico</h2>
           <p> <strong> Imparte: </strong> <br> Víctor Vázquez <br> <br> <strong> Lugar: </strong> <br> Sala </p>
           <p><strong> Objetivo: </strong> <br>
-	  Aplicar LaTeX para el desarrollo de productos académicos; en particular, 
-	  tesis, libros y brevemente artículos. El participante obtendrá los conocimientos 
+	  Aplicar LaTeX para el desarrollo de productos académicos; en particular,
+	  tesis, libros y brevemente artículos. El participante obtendrá los conocimientos
 	  necesarios para el trabajo de archivos robustos mediante el paradigma modular,
 	  creación de funciones, comandos y uso web (Moodle), entre otros. </b>
 	  <p> <strong> Conocimientos previos: </strong> <br>
@@ -501,16 +506,21 @@
             Que el asistente aprenda el uso del MVS Laravel y pueda
             realizar proyectos con dicho framework, realización de
 	    una API con CRUDs para el consumo del front-end.</b>
-	  <p> <strong> Conocimientos previos: </strong> <br> 
+	  <p> <strong> Conocimientos previos: </strong> <br>
 	  PHP básico y MySQL básico.
           </p>
         </div>
       </div>
 </div>
 
+<a href="#" download>
+  <div class="bot-down">
+    Descargar PDF de los talleres.
+  </div>
+</a>
 
 <div class="band-register">
-  <a href="register.php">
+  <a href="#" onclick="saludos();">
   <div class="">
       ¡Regístrate Gratis!
   </div>
@@ -705,10 +715,10 @@
   </div>
 </div>
 
-    <h1 id="organizadores" class="org-tit">organizadores</h1>
+     <!-- <h1 id="organizadores" class="org-tit">organizadores</h1> -->
 
 <!-- INTRODUZCA CODIGO ORGANIZADORES INICIO -->
-<div class="wrap-organizadores">
+<!-- <div class="wrap-organizadores">
 
   <div class="org-person">
     <img src="img/organiz-ejemp/0.jpg" alt="">
@@ -750,27 +760,27 @@
     <p>Nombre #n</p>
   </div>
 
-</div>
+</div> --> -->
 
 
 <h1 id="desarrolladores" style="margin-top:30px;">Desarrolladores CIDWA</h1>
   <div class="wrap-organizadores">
     <div class="org-person">
-      <img src="img/organiz-ejemp/29.jpg" alt="">
+      <!-- <img src="img/organiz-ejemp/29.jpg" alt=""> -->
       <div class="prof-box">
         <p>Arturo Guerrero</p>
       </div>
       <p class="prof">Project Manager</p>
     </div>
     <div class="org-person">
-      <img src="img/organiz-ejemp/29.jpg" alt="">
+      <!-- <img src="img/organiz-ejemp/29.jpg" alt=""> -->
       <div class="prof-box">
         <p>Enrique Maya</p>
       </div>
       <p class="prof">Desarrollador Web</p>
     </div>
     <div class="org-person">
-      <img src="img/organiz-ejemp/29.jpg" alt="">
+      <!-- <img src="img/organiz-ejemp/29.jpg" alt=""> -->
       <div class="prof-box">
         <p>Hugo Enriquez</p>
       </div>
