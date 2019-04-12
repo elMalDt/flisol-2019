@@ -137,6 +137,7 @@ body{
 /* ESTILOS DEL STICKY NAVBAR INICIO */
 
 
+
 .navigation__checkbox {
   display: none; }
 
@@ -185,7 +186,7 @@ animation: moveInRight 0.6s ease-in;
   list-style: none;
   text-align: center;
   width: 100%;
-
+  /* display: none; */
 }
 
 .navigation__item {
@@ -357,7 +358,7 @@ h1{
 
 /* ESTILOS DE LAS MAIN-CARDS INICIO */
 .card-cont{
-   /* background-color: yellow; */
+  /* background-color: yellow; */
 
   height: auto;
   width: 100%;
@@ -685,8 +686,6 @@ a{
   margin-bottom: 0px;
 }
 .dev-person{
-  margin: 20px;
-  /* background-color: yellow; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -978,13 +977,76 @@ margin-top: 82px;
 
 /* MEDIA QUERIES PARA EL REGISTER */
 
+
+@media only screen and (max-width: 434px){
+  .card-cont{
+    margin-top: 30px;
+  }
+
+
+  .card-main-content{
+    width: 98%;
+    height: 500px;
+    margin: 30px 0px;
+    box-shadow: none;
+  }
+
+
+  .back-card{
+    width: 95%;
+    height: 500px;
+  }
+
+  .main-card-section{
+    width: 95%;
+    padding: 5px 20px;
+    margin: 0px;
+    /* line-height: 1.5; */
+  }
+  .img-main-card{
+    height: 500px;
+    width: 95%;
+    border-radius: 15px;
+  }
+  .bot-down{
+    padding: 13px;
+    width: 70%;
+  }
+
+}
+
+@media only screen and (max-width: 456px){
+  .back-itemss img{
+    display: none;
+  }
+  .encab{
+    font-size: 34px;
+  }
+}
+
+@media only screen and (max-width: 405px){
+
+  .ug h2{
+     font-size: 17px!important;
+  }
+  .og h2{
+    font-size: 22px;
+  }
+  .ugly-card p{
+    font-size: 13px;
+  }
+}
 @media only screen and (max-width: 480px){
   .backImg{
     width: 100%;
   }
-body{
+/* body{
   width: 136%;
+} */
+.cont-xono{
+  box-shadow: none;
 }
+
 }
 
 @media only screen and (min-width: 1029px) and (max-width: 1234px){
@@ -1012,6 +1074,7 @@ body{
 @media only screen and (min-width: 769px) and (max-width: 1230px){
   .tab, .cont-xono{
     width: 90%;
+
   }
 
 }
