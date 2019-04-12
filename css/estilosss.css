@@ -631,7 +631,49 @@ a{
 
 /* ESTILOS DE ORGANIZADORES FIN */
 
+/*ESTILOS XONOTIC INICIO */
 
+.cont-xono{
+  background-color: #fff;
+  box-shadow: 7px 7px 6px rgba(0,0,0,0.25);
+  display: flex;
+ flex-direction: column;
+ flex-wrap: wrap;
+ align-items: center;
+ padding: 40px;
+ width: 65%;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 70px;
+}
+.cont-xono h2{
+  font-family: 'Share Tech', sans-serif;
+  font-size: 40px;
+  color: #01303F;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: lighter;
+}
+.cont-xono img {
+  width: 80%;
+}
+.cont-text-xono {
+  display: flex;
+  justify-content: space-between;
+  /* background-color: yellow; */
+  width: 80%;
+  height: 60px;
+}
+.cont-xono p{
+  font-size: 18px;
+  width: 80%;
+  line-height: 1.6;
+  text-align: left;
+
+}
+
+/*ESTILOS XONOTIC FIN */
 
 /* ESTILOS DEL TEAM DEV INICIO */
 
@@ -750,7 +792,7 @@ footer{
 
 @media only screen and (max-width: 480px) {
 .navigation__list{
-margin-top: 82px; 
+margin-top: 82px;
 }
   .logo{
     height: 80px;
@@ -864,6 +906,15 @@ margin-top: 82px;
 
   .tab{
     width: 100%;
+
+  }
+  .cont-xono{
+    width: 96%;
+    padding: 10px;
+  }
+  .cont-xono h2{
+    font-size: 34px;
+    padding-top: 20px;
   }
 
   .foo-cid{
@@ -959,8 +1010,9 @@ body{
 }
 
 @media only screen and (min-width: 769px) and (max-width: 1230px){
-  .tab{
+  .tab, .cont-xono{
     width: 90%;
   }
+
 }
 /* MEDIA QUERIES FIN */
