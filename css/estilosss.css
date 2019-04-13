@@ -712,7 +712,7 @@ a{
   width: 200px;
   height: 40px;
   position: absolute;
-  margin-top: 50px;
+  margin-top: 150px;
 }
 .placa-name p{
 margin: 0!important;
@@ -1058,12 +1058,15 @@ margin-top: 82px;
   .ugly-card p{
     font-size: 13px;
   }
+  .placa-name{
+    margin-top: 50px;
+  }
 }
 @media only screen and (max-width: 480px){
   .backImg{
     width: 100%;
   }
-/* body{
+/* body1{
   width: 136%;
 } */
 .cont-xono{
