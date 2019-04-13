@@ -1059,7 +1059,7 @@ margin-top: 82px;
     font-size: 13px;
   }
   .placa-name{
-    margin-top: -5px;
+    margin-top:5px;
   }
 }
 @media only screen and (max-width: 480px){
@@ -1107,7 +1107,7 @@ margin-top: 82px;
 
   }
   .navigation__list{
-    margin-top: 20px;
+    margin-top: 5px;
   }
   .navigation__link:link, .navigation__link:visited{
     font-size: 20px;
