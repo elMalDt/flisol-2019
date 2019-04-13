@@ -1,3 +1,3 @@
 function saludos(){
-  alert("Disculpe las molestias, el registro aún no esta disponible en la pagina.")
+  alert("El registro estará disponble a partir del Miércoles 17/04/2019")
 }
