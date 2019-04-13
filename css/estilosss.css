@@ -1,3 +1,4 @@
+
 *{
   box-sizing: border-box;
   margin: 0px;
@@ -473,13 +474,14 @@ a{
 
 }
 .band-register a div {
-  margin-right: 4rem;
-  padding: 20px;
+  margin-right: 3rem;
+  padding: 20px 5px;
+  text-align: center;
   border-radius: 100px;
   width: 200px;
   background-color:#fff;
   color: #02A9F7;
-  font-size: 19px;
+  font-size: 18px;
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
   border: none;
