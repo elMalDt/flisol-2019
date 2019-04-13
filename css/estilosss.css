@@ -687,6 +687,7 @@ a{
   margin-bottom: 0px;
 }
 .dev-person{
+  margin: 0px 35px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -724,7 +725,7 @@ padding-top: 10px;
   font-size: 30px;
   font-family: 'Lato', sans-serif;
   color: #01303F;
-  margin-top: -40px;
+  margin-top: 20px!important;
 }
 /* ESTILOS DEL TEAM DEV FIN */
 
