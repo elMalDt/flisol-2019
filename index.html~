@@ -97,7 +97,7 @@
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
-              <p> <strong> 24/04/2019 </strong></p>
+              <p> <strong> Miércoles </strong></p>
               <p> <strong> 9:00 - 10:00 </strong></p>
             </span>
             <h2>Generando valor en la práctica a través del software libre </h2>
@@ -113,7 +113,7 @@
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
-              <p> <strong> 24/04/2019 </strong></p>
+              <p> <strong> Miércoles </strong></p>
               <p> <strong> 10:00 - 11:00 </strong></p>
             </span>
             <h2>Diseñadora Gráfica: Migrando mi hogar a Linux</h2>
@@ -131,7 +131,7 @@
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
-              <p> <strong> 24/04/2019 </strong></p>
+              <p> <strong> Miércoles </strong></p>
               <p> <strong> 11:00 - 12:00 </strong></p>
             </span>
             <h2>Contenedores y virtualización Open Source, de bajo costo y alto rendimiento</h2>
@@ -151,7 +151,7 @@
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
-              <p> <strong> 24/04/2019 </strong></p>
+              <p> <strong> Miércoles </strong></p>
               <p> <strong> 12:00 - 13:00 </strong></p>
             </span>
             <h2>Rho-Pi: Bot de Telegram para controlar una RaspberryPi</h2>
@@ -169,7 +169,7 @@
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
-              <p> <strong> 24/04/2019 </strong></p>
+              <p> <strong> Miércoles </strong></p>
               <p> <strong> 13:00 - 14:00 </strong></p>
             </span>
             <h2>Fedora containers</h2>
@@ -187,7 +187,7 @@
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
-              <p> <strong> 24/04/2019 </strong></p>
+              <p> <strong> Miércoles </strong></p>
               <p> <strong> 15:00 - 16:00 </strong></p>
             </span>
             <h2>Creación de aplicaciones web utilizando software libre como base</h2>
@@ -207,7 +207,7 @@
           <div class="back-card ac"></div>
           <div class="main-card-section ac">
             <span>
-              <p> <strong> 24/04/2019 </strong></p>
+              <p> <strong> Miércoles </strong></p>
               <p> <strong> 16:00 - 17:00 </strong></p>
             </span>
             <h2>Debian y su misión con el software libre</h2>
@@ -227,7 +227,7 @@
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
-              <p> <strong> 24/04/2019 </strong></p>
+              <p> <strong> Miércoles </strong></p>
               <p> <strong> 17:00 - 18:00 </strong></p>
             </span>
             <h2>Vampiros vs Hombres Lobo. La cultura DevOps</h2>
@@ -246,7 +246,7 @@
           <div class="back-card ac"></div>
           <div class="main-card-section ac">
             <span>
-              <p> <strong> 25/04/2019 </strong></p>
+              <p> <strong> Jueves </strong></p>
               <p> <strong> 16:00 a 18:00 </strong></p>
             </span>
             <h2 style="font-size: 20px;">Informática forense con software libre: demostración de hallazgos/evidencia digital aplicable a una investigación criminal</h2>
@@ -270,7 +270,7 @@
           <div class="back-card"></div>
           <div class="main-card-section">
             <span>
-              <p> <strong> 26/04/2019 </strong></p>
+              <p> <strong> Viernes </strong></p>
               <p> <strong> 10:00 - 11:00 </strong></p>
             </span>
             <h2>Linux contra la basura electrónica</h2>
@@ -303,7 +303,7 @@
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> 24 y 25/04/2019</strong></p>
+            <p> <strong> Miércoles y jueves </strong></p>
             <p> <strong> 16:00 a 18:00 </strong></p>
           </span>
           <h2>Laravel</h2>
@@ -323,7 +323,7 @@
         <div class="back-card ac"></div>
         <div class="main-card-section ac">
           <span>
-            <p> <strong> 25/04/2019 </strong></p>
+            <p> <strong> Jueves </strong></p>
             <p> <strong> 9:00 - 11:00 </strong></p>
           </span>
           <h2>Introducción a BASH scripting</h2>
@@ -344,7 +344,7 @@
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> 25/04/2019 </strong></p>
+            <p> <strong> Jueves </strong></p>
             <p> <strong> 11:00 - 13:00 </strong></p>
           </span>
           <h2>Introducción a la privacidad y anonimato en Tails</h2>
@@ -364,7 +364,7 @@
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> 25/04/2019 </strong></p>
+            <p> <strong> Jueves </strong></p>
             <p> <strong> 11:00 - 13:00 </strong></p>
           </span>
           <h2>Introducción a JULIA con enfoque práctico</h2>
@@ -387,7 +387,7 @@
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> 25/04/2019 </strong></p>
+            <p> <strong> Jueves </strong></p>
             <p> <strong> 11:00 - 13:00 </strong></p>
           </span>
           <h2>R no estadístico</h2>
@@ -408,7 +408,7 @@
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> 25/04/2019 </strong></p>
+            <p> <strong> Jueves </strong></p>
             <p> <strong> 11:00 - 13:00 </strong></p>
           </span>
           <h2>Web Scraping</h2>
@@ -428,7 +428,7 @@
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> 25/04/2019 </strong></p>
+            <p> <strong> Jueves </strong></p>
             <p> <strong> 13:00 - 15:00 </strong></p>
           </span>
           <h2>Análisis de datos espaciales con GEODA</h2>
@@ -448,7 +448,7 @@
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> 25/04/2019 </strong></p>
+            <p> <strong> Jueves </strong></p>
             <p> <strong> 13:00 - 15:00 </strong></p>
           </span>
           <h2>Taller básico de LaTeX</h2>
@@ -468,7 +468,7 @@
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> 25/04/2019 </strong></p>
+            <p> <strong> Jueves </strong></p>
             <p> <strong> 13:00 - 15:00 </strong></p>
           </span>
           <h2>Taller básico de Blender</h2>
@@ -488,7 +488,7 @@
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> 25/04/2019 </strong></p>
+            <p> <strong> Jueves </strong></p>
             <p> <strong> 13:00 - 15:00 </strong></p>
           </span>
           <h2>Introducción a Emacs</h2>
@@ -510,7 +510,7 @@
         <div class="back-card"></div>
         <div class="main-card-section">
           <span>
-            <p> <strong> 25/04/2019 </strong></p>
+            <p> <strong> Jueves </strong></p>
             <p> <strong> 16:00 – 18:00 </strong></p>
           </span>
           <h2>Diseñando un flyer con Inkscape</h2>
@@ -530,7 +530,7 @@
         <div class="back-card ac"></div>
         <div class="main-card-section ac">
           <span>
-            <p> <strong> 25/04/2019 </strong></p>
+            <p> <strong> Jueves </strong></p>
             <p> <strong> 16:00 - 18:00 </strong></p>
           </span>
           <h2>LaTeX Académico</h2>
